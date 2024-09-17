@@ -14,15 +14,19 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 **Competitive Analysis**
 
 *Kevin McDonald*
+
 (Insert Here)
 
 *Eric Scull*
+
 (Insert Here)
 
 *Hayden Rhoydes*
+
 (Insert Here)
 
 *Andrew Taughinbaugh*
+
 (Insert Here)
 
 **END**
@@ -31,15 +35,19 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 **Git Hub Research**
 
 *Kevin McDonald*
+
 (Insert Here)
 
 *Eric Scull*
+
 (Insert Here)
 
 *Hayden Rhoydes*
+
 (Insert Here)
 
 *Andrew Taughinbaugh*
+
 (Insert Here)
 
 **END**
@@ -48,18 +56,25 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 **Contributions**
 
 *Kevin McDonald*
-(9/17) Created Git Hub - Kevin McDonald
+
+(9/17) Created Git Hub 
+
 (9/17) Created Project on Visual Studio 
+
 (9/17) Added Bootstrap template into Project 
+
 (9/17) Set Up ReadMe File
 
 *Eric Scull*
+
 (Insert Here)
 
 *Hayden Rhoydes*
+
 (Insert Here)
 
 *Andrew Taughinbaugh*
+
 (Insert Here)
 
 **END**
