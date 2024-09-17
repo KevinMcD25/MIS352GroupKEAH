@@ -57,7 +57,7 @@ Kevin: I would like to do an adventure WV application if we need to use NOAA Dat
 
 *Kevin McDonald*
 
-(9/17) Created Git Hub 
+(9/17) Created GitHub Repo
 
 (9/17) Created Project on Visual Studio 
 
