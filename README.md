@@ -7,7 +7,7 @@ Kevin : I believe we are starting a app that uses weather data for analysis on w
 
 Kevin: I would like to do an adventur WV application if we need to use NOAA Data, if not im open to anything.
 
-**END**
+
 
 
 
@@ -29,7 +29,7 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 
 (Insert Here)
 
-**END**
+
 
 
 **Git Hub Research**
@@ -50,7 +50,7 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 
 (Insert Here)
 
-**END**
+
 
 
 **Contributions**
@@ -65,19 +65,22 @@ Kevin: I would like to do an adventur WV application if we need to use NOAA Data
 
 (9/17) Set Up ReadMe File
 
+
 *Eric Scull*
 
 (Insert Here)
+
 
 *Hayden Rhoydes*
 
 (Insert Here)
 
+
 *Andrew Taughinbaugh*
 
 (Insert Here)
 
-**END**
+
 
 
 **Reflect Resources**
