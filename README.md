@@ -7,17 +7,17 @@ Kevin: I believe we are starting a app that uses weather data for analysis on wh
 
 Kevin: I would like to do an adventure WV application if we need to use NOAA Data, if not im open to anything.
 
-
+*******************************************************************************************************************************************************************
 
 **Current Phase**
 
 Kevin: We are currently in Phase 1 of our application, we need to develople our first welcome pages, and figure out what exactly we want to do
 
+*******************************************************************************************************************************************************************
 
 **Future Implementation**
 
 Kevin: I would like to start adding more detail to my homepage and find out new types styles I could use
-
 
 *******************************************************************************************************************************************************************
 
