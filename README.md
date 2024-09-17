@@ -3,12 +3,23 @@ This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, 
 
 **Project Overview**
 
-Kevin : I believe we are starting a app that uses weather data for analysis on what items you should sell or events that would be the best for that weather/ planning events for your camp site. (MAYBE) * I want to change it to something that we would want to work on *
+Kevin: I believe we are starting a app that uses weather data for analysis on what items you should sell or events that would be the best for that weather/ planning events for your camp site. (MAYBE) * I want to change it to something that we would want to work on *
 
 Kevin: I would like to do an adventure WV application if we need to use NOAA Data, if not im open to anything.
 
 
-********************************************************************************************************************************************************************
+
+**Current Phase**
+
+Kevin: We are currently in Phase 1 of our application, we need to develople our first welcome pages, and figure out what exactly we want to do
+
+
+**Future Implementation**
+
+Kevin: I would like to start adding more detail to my homepage and find out new types styles I could use
+
+
+*******************************************************************************************************************************************************************
 
 
 **Competitive Analysis**
@@ -30,7 +41,7 @@ Kevin: I would like to do an adventure WV application if we need to use NOAA Dat
 (Insert Here)
 
 
-********************************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 
 **Git Hub Research**
 
@@ -51,7 +62,7 @@ Kevin: I would like to do an adventure WV application if we need to use NOAA Dat
 (Insert Here)
 
 
-********************************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 
 **Contributions**
 
@@ -81,7 +92,7 @@ Kevin: I would like to do an adventure WV application if we need to use NOAA Dat
 (Insert Here)
 
 
-********************************************************************************************************************************************************************
+*******************************************************************************************************************************************************************
 
 **Reflect Resources**
 
