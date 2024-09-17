@@ -5,7 +5,7 @@ This is the MIS 353 Rep for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, a
 
 Kevin : I believe we are starting a app that uses weather data for analysis on what items you should sell or events that would be the best for that weather/ planning events for your camp site. (MAYBE) * I want to change it to something that we would want to work on *
 
-Kevin: I would like to do an adventur WV application if we need to use NOAA Data, if not im open to anything.
+Kevin: I would like to do an adventure WV application if we need to use NOAA Data, if not im open to anything.
 
 
 ********************************************************************************************************************************************************************
