@@ -9,7 +9,7 @@ This is an application that is a mix of a adventure WV page and a planning tool 
 
 **Current Phase**
 
-Kevin: We are currently in Phase 1 of our application, we need to develople our first pages
+Kevin: We are currently in Phase 1 of our application, we need to develope our first pages
 
 *******************************************************************************************************************************************************************
 
