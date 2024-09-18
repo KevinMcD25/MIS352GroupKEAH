@@ -34,8 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Information.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/Contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbnRhY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_LoginPartial.cshtml]
