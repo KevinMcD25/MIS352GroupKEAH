@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,6 +18,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\bootstrap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\bootstrap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\contacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 4170d2074f4d3195bf784f0672fe71be3dda951b
     }
   ],
   "DocumentGroupContainers": [
@@ -26,10 +31,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
@@ -78,6 +84,17 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAAADoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T15:59:38.558Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Contacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Contacts.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Contacts.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Contacts.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Contacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T15:59:19.608Z",
+>>>>>>> 4170d2074f4d3195bf784f0672fe71be3dda951b
               "EditorCaption": ""
             }
           ]
