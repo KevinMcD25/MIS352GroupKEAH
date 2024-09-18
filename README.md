@@ -3,19 +3,19 @@ This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, 
 
 **Project Dsc**
 
-This is an application that is a mix of a adventure WV page and a planning tool for outdoor adventures. We would like to promote going outdoors and seeing what the appalacha has to offer. One fuction of the application with be to help outdoor goers plan their trips using our application. They will set a date and the information about that weather season and activities you can do will populate. This application will also provide you with the rich history and views that the appalacha have to offer!
+This is an application that is a mix of an adventure WV page and a planning tool for outdoor adventures. We would like to promote going outdoors and seeing what the Appalachia has to offer. One function of the application will be to help outdoor goers plan their trips using our application. They will set a date and the information about that weather season and activities you can do will populate. This application will also provide you with the rich history and views that the Appalacha has to offer!
 
 *******************************************************************************************************************************************************************
 
 **Current Phase**
 
-Kevin: We are currently in Phase 1 of our application, we need to develope our first pages
+Kevin: We are currently in Phase 1 of our application, we need to develop our first pages
 
 *******************************************************************************************************************************************************************
 
 **Future Implementation**
 
-Kevin: I would like to start adding more detail to my homepage and find out new types styles I could use
+Kevin: I would like to start adding more detail to my homepage and find out new types of styles I could use
 
 *******************************************************************************************************************************************************************
 
@@ -26,13 +26,13 @@ Kevin: I would like to start adding more detail to my homepage and find out new 
 
 (https://adventurewv.wvu.edu/)
 
-This site is great visual image, I feel like one major part of making a good home page would be to make it look good to the eyes. Secondly, I feel like they do a good job and providing you with buttons inviting you to see what the other pages have. When I futher inspected the site I noticed that the HTML is very simple. One bootstrap with buttons and href links. they inclide scripts in there code as well but I have no clue what they do as of now. I noticed they also include footers which might be nice when making my own page.
+This site is a great visual image, I feel like one major part of making a good home page would be to make it look good to the eyes. Secondly, I feel like they do a good job and providing you with buttons inviting you to see what the other pages have. When I further inspected the site I noticed that the HTML is very simple. One bootstrap with buttons and href links. they include scripts in their code as well but I have no clue what they do as of now. I noticed they also include footers which might be nice when making my own page.
 
 *Eric Scull*
 
 (Insert Here)
 
-*Hayden Rhoydes*
+*Hayden Rhodes*
 
 (Insert Here)
 
@@ -49,13 +49,13 @@ This site is great visual image, I feel like one major part of making a good hom
 
 (https://github.com/stefanfeldner/capstone-travel-app)
 
-I found a simular github repo to the project that we are doing. This code reaches from an API to deliever information about the Destination during the dates selection. Would be helpful when coming up with search methods and writing if statements in fuctions to deliever data to the client. I also like the UI of their application, I might try to replicate to some degree. Overall, I feel like this gitHub repo will be very helpful in the making of our app.
+I found a similar GitHub repo to the project that we are doing. This code reaches an API to deliver information about the Destination during the date selection. It would be helpful when coming up with search methods and writing if statements in functions to deliver data to the client. I also like the UI of their application, I might try to replicate it to some degree. Overall, I feel like this GitHub repo will be very helpful in the making of our app.
 
 *Eric Scull*
 
 (Insert Here)
 
-*Hayden Rhoydes*
+*Hayden Rhodes*
 
 (Insert Here)
 
@@ -80,8 +80,8 @@ I found a simular github repo to the project that we are doing. This code reache
 
 (9/18) Added Project Description
 
-(9/18) Started Competitive Anlysis & GitHub Research
-
+(9/18) Started Competitive Analysis & GitHub Research
+    
 (9/18) Developed Home Page
 
 *Eric Scull*
@@ -89,9 +89,14 @@ I found a simular github repo to the project that we are doing. This code reache
 (Insert Here)
 
 
-*Hayden Rhoydes*
+*Hayden Rhodes*
 
-(Insert Here)
+(9/17) - Created Contact page
+
+(9/18) - imported bootstrap from https://www.bootdey.com/snippets/view/Get-in-Touch-form#html
+
+(9/18) - formatted bootstrap to fit our company
+
 
 
 *Andrew Taughinbaugh*
