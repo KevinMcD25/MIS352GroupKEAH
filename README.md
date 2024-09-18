@@ -1,17 +1,15 @@
 # MIS352GroupKEAH
 This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, and Hayden Rhodes
 
-**Project Overview**
+**Project Dsc**
 
-Kevin: I believe we are starting a app that uses weather data for analysis on what items you should sell or events that would be the best for that weather/ planning events for your camp site. (MAYBE) * I want to change it to something that we would want to work on *
-
-Kevin: I would like to do an adventure WV application if we need to use NOAA Data, if not im open to anything.
+This is an application that is a mix of a adventure WV page and a planning tool for outdoor adventures. We would like to promote going outdoors and seeing what the appalacha has to offer. One fuction of the application with be to help outdoor goers plan their trips using our application. They will set a date and the information about that weather season and activities you can do will populate. This application will also provide you with the rich history and views that the appalacha have to offer!
 
 *******************************************************************************************************************************************************************
 
 **Current Phase**
 
-Kevin: We are currently in Phase 1 of our application, we need to develople our first welcome pages, and figure out what exactly we want to do
+Kevin: We are currently in Phase 1 of our application, we need to develople our first pages
 
 *******************************************************************************************************************************************************************
 
@@ -26,7 +24,9 @@ Kevin: I would like to start adding more detail to my homepage and find out new 
 
 *Kevin McDonald*
 
-(Insert Here)
+(https://adventurewv.wvu.edu/)
+
+This site is great visual image, I feel like one major part of making a good home page would be to make it look good to the eyes. Secondly, I feel like they do a good job and providing you with buttons inviting you to see what the other pages have. When I futher inspected the site I noticed that the HTML is very simple. One bootstrap with buttons and href links. they inclide scripts in there code as well but I have no clue what they do as of now. I noticed they also include footers which might be nice when making my own page.
 
 *Eric Scull*
 
@@ -47,7 +47,9 @@ Kevin: I would like to start adding more detail to my homepage and find out new 
 
 *Kevin McDonald*
 
-(Insert Here)
+(https://github.com/stefanfeldner/capstone-travel-app)
+
+I found a simular github repo to the project that we are doing. This code reaches from an API to deliever information about the Destination during the dates selection. Would be helpful when coming up with search methods and writing if statements in fuctions to deliever data to the client. I also like the UI of their application, I might try to replicate to some degree. Overall, I feel like this gitHub repo will be very helpful in the making of our app.
 
 *Eric Scull*
 
@@ -76,6 +78,11 @@ Kevin: I would like to start adding more detail to my homepage and find out new 
 
 (9/17) Set Up ReadMe File
 
+(9/18) Added Project Description
+
+(9/18) Started Competitive Anlysis & GitHub Research
+
+(9/18) Developed Home Page
 
 *Eric Scull*
 
