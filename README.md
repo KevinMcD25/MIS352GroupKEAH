@@ -84,6 +84,8 @@ I found a similar GitHub repo to the project that we are doing. This code reache
     
 (9/18) Developed Home Page
 
+(9/19) Edited ReadMe, Home Page button added
+
 *Eric Scull*
 
 (Insert Here)
