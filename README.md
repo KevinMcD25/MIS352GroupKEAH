@@ -114,4 +114,6 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 
 **Reflect Resources**
 
-(Insert Here)
+**Prompts**
+" Can You Make me a Bootstrap for a home page "
+" Can you give me a rustic font "
