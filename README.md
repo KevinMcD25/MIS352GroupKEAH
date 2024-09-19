@@ -121,3 +121,5 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 " Can You Make me a Bootstrap for a home page "
 
 " Can you give me a rustic font "
+
+"What would the code for an interactive map look like in HTML?"
