@@ -101,7 +101,13 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 
 *Andrew Taughinbaugh*
 
-(Insert Here)
+(9/17) - Created the Informations page
+
+(9/18) - Imported a carousel bootstrap format
+
+(9/18) - Added test images into the carousel bootstrap
+
+(9/18) - Created a button that reveals information
 
 
 *******************************************************************************************************************************************************************
