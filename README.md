@@ -88,7 +88,7 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 
 *Eric Scull*
 
-(Insert Here)
+(9/19) Created Map Page
 
 
 *Hayden Rhodes*
