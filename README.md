@@ -117,13 +117,13 @@ This is a travel advisor that has some features we could potentially use in our 
 
 (9/17) - Created the Informations page
 
-(9/18) - Imported a carousel bootstrap format
+(9/18) - Imported a carousel bootstrap format (https://www.w3schools.com/bootstrap5/bootstrap_carousel.php)
 
 (9/18) - Added test images into the carousel bootstrap
 
 (9/18) - Created a button that reveals information
 
-(9/19) - Added a navbar and changed the colors
+(9/19) - Added a navbar and changed the colors (https://www.w3schools.com/css/css_navbar_horizontal.asp)
 
 
 *******************************************************************************************************************************************************************
