@@ -30,7 +30,9 @@ This site is a great visual image, I feel like one major part of making a good h
 
 *Eric Scull*
 
-(Insert Here)
+https://www.mapwv.gov/staticMaps.html
+
+This site is an option I was thinking of creating when making the "Map" portion of the wep application. I decided after some consideration to go with one map with roads, which is important for the travel aspects of our web app. It looks okay from the outside, but what's behind the maps is the real treat. Each map has download option by county in different sizes, which is a great feature to have. One downside is that it takes a lot of code to write. One issue about this site is that I can only find static maps. I would like to add a feature to make an interactive map where you can plan trips scroll around the map to find everything you're looking for in West Virginia. I see some JavaScript woven into the HTML which gives this site a good look and feel, as well as decent functionality. 
 
 *Hayden Rhodes*
 
@@ -42,7 +44,7 @@ This site gives weather data similar to what we envision our site to do, but it 
 
 https://www.wv.gov/pages/tourism.aspx
 
-This is page is pretty similar to something we are doing without the whether. This website does have some good features, like a clear navbar and a variety of different choices(Business, Education, Tourism, Governmet). The look of the site is pretty rough. Everything about it just feels outdated and needs a refresh. I feel like we could use some characteristics of this site in our own and improve the way ours looks and works. 
+This is page is pretty similar to something we are doing without the weather. This website does have some good features, like a clear navbar and a variety of different choices(Business, Education, Tourism, Government). The look of the site is pretty rough. Everything about it just feels outdated and needs a refresh. I feel like we could use some characteristics of this site in our own and improve the way ours looks and works. 
 
 
 *******************************************************************************************************************************************************************
@@ -97,6 +99,15 @@ This is a travel advisor that has some features we could potentially use in our 
 
 (9/19) Created Map Page
 
+(9/19) Completed GitHub Research
+
+(9/19) Ran first test of Map Page
+
+(9/19) Added Static Map
+
+(9/19) Added Bootstrap and Foormatted Bootstrap
+
+(9/19) Edited ReadMe
 
 *Hayden Rhodes*
 
