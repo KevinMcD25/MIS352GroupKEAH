@@ -1,4 +1,4 @@
-# MIS352GroupKEAH
+# MIS353GroupKEAH
 This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, and Hayden Rhodes
 
 **Project Dsc**
