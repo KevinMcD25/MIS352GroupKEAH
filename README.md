@@ -3,7 +3,7 @@ This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, 
 
 **Project Dsc**
 
-This is an application that is a mix of an adventure WV page and a planning tool for outdoor adventures. We would like to promote going outdoors and seeing what the Appalachia has to offer. One function of the application will be to help outdoor goers plan their trips using our application. They will set a date and the information about that weather season and activities you can do will populate. This application will also provide you with the rich history and views that the Appalacha has to offer!
+This is an application that is a mix of an adventure WV page and a planning tool for outdoor adventures. We would like to promote going outdoors and seeing what the Appalachia has to offer. One function of the application will be to help outdoor goers plan their trips using our application. They will set a date and the information about that weather season and activities you can do will populate. This application will also provide you with the rich history and views that Appalachia has to offer!
 
 *******************************************************************************************************************************************************************
 
@@ -16,7 +16,7 @@ Kevin: We are currently in Phase 1 of our application, we need to develop our fi
 **Future Implementation**
 
 Kevin: I would like to start adding more detail to my homepage and find out new types of styles I could use
-Hayden: I would like to add the option that forwards mail in the contact us page to an actual email address
+Hayden: I would like to add the option that forwards mail in the Contact Us page to an actual email address
 *******************************************************************************************************************************************************************
 
 
