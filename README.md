@@ -40,7 +40,9 @@ This site gives weather data similar to what we envision our site to do, but it 
 
 *Andrew Taughinbaugh*
 
-(Insert Here)
+https://www.wv.gov/pages/tourism.aspx
+
+This is page is pretty similar to something we are doing without the whether. This website does have some good features, like a clear navbar and a variety of different choices(Business, Education, Tourism, Governmet). The look of the site is pretty rough. Everything about it just feels outdated and needs a refresh. I feel like we could use some characteristics of this site in our own and improve the way ours looks and works. 
 
 
 *******************************************************************************************************************************************************************
@@ -65,8 +67,9 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 
 *Andrew Taughinbaugh*
 
-(Insert Here)
+https://github.com/GingerDragon7/react_travel_advisor
 
+This is a travel advisor that has some features we could potentially use in our own site. This has a Google Maps API which could help with finding destinations, and they use a weather API which would be perfect for our travel site. The weather and maps feature would make going to destinations much more streamlined.
 
 *******************************************************************************************************************************************************************
 
@@ -120,6 +123,8 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 
 (9/18) - Created a button that reveals information
 
+(9/19) - Added a navbar and changed the colors
+
 
 *******************************************************************************************************************************************************************
 
@@ -134,3 +139,10 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 "What would the code for an interactive map look like in HTML?"
 
 "How can I add a pin on top of a picture in HTML?"
+
+*Andrew Taughinbaugh*
+"why wont my bootstrap work?"
+
+"How do I resize images in the carousel?"
+
+"How do I make my navbar useable?"
