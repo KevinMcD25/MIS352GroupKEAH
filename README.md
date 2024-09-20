@@ -123,3 +123,5 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 " Can you give me a rustic font "
 
 "What would the code for an interactive map look like in HTML?"
+
+"How can I add a pin on top of a picture in HTML?"
