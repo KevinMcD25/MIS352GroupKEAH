@@ -59,7 +59,9 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 
 *Eric Scull*
 
-(Insert Here)
+https://github.com/Leaflet/Leaflet/tree/main
+
+This repository has a lot of information about maps that can be used for our web application. It doesn't seem to be updated too frequently, as the last update was two months ago. It is rich with HTML and JavaScript, plenty of ReadMe files, and has code for typical mapping features. Their website actually opens up with a donation request, as Leaflet was founded by a Ukrainian man named Volodymyr Agafonkin. This repository lays out clearly the elements needed to make a standout map for a web application.
 
 *Hayden Rhodes*
 
