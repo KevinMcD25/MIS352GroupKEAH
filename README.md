@@ -97,6 +97,10 @@ This is a travel advisor that has some features we could potentially use in our 
 
 (9/19) Edited ReadMe, Home Page button added
 
+(10/3) Created Database / Added tables and data
+
+(10/3) Created 2 Procs / Add/Delete Plan
+
 *Eric Scull*
 
 (9/19) Created Map Page
