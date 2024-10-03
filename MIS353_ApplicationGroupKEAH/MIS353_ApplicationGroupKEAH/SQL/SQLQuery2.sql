@@ -29,10 +29,10 @@ create table  [HOSPITALITY] (
 GO
 
 create table [PLAN] (
+[PID] int primary key not null,
 [HID] int not null,
 [AID] int not null,
 [PDatetime] datetime not null,
-PRIMARY KEY ([HID],[AID],[PDatetime]),
 FOREIGN KEY ([HID]) REFERENCES [HOSPITALITY]([HID]),
 FOREIGN KEY ([AID]) REFERENCES [ACTIVITIES]([AID])
 )
@@ -40,9 +40,16 @@ GO
 
 create table [USERDATA] (
 [UID] int primary key not null,
+[PID] int not null,
 [UFName] nvarchar(255) not null,
 [ULName] nvarchar(255) not null,
 [UEmail] nvarchar(255) not null,
 [UPhone] int not null
+FOREIGN KEY ([PID]) REFERENCES [PLAN]([PID])
+
 )
+GO
+
+
+DROP TABLE [PLAN]
 GO
