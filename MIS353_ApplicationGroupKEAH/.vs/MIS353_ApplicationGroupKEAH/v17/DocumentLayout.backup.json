@@ -116,10 +116,13 @@
               "Title": "map.cshtml",
               "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
               "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml*",
-              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-09-18T16:15:20.095Z"
+=======
               "WhenOpened": "2024-09-19T18:38:20.397Z",
               "EditorCaption": ""
             },
@@ -135,6 +138,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T18:36:34.732Z",
               "EditorCaption": ""
+>>>>>>> 02e9b4083e0e30885aede3ecf9a3a77ba77e5aee
             },
             {
               "$type": "Document",
