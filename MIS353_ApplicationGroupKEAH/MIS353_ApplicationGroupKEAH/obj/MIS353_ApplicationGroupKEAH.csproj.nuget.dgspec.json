@@ -11,10 +11,18 @@
         "projectName": "MIS353_ApplicationGroupKEAH",
         "projectPath": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
         "packagesPath": "C:\\Users\\MISTUser\\.nuget\\packages\\",
+<<<<<<< HEAD
+        "outputPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\obj\\",
+=======
         "outputPath": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\obj\\",
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

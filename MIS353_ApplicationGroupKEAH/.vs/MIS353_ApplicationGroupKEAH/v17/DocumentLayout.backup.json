@@ -1,6 +1,10 @@
 {
   "Version": 1,
 <<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\",
+  "Documents": [],
+=======
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\",
   "Documents": [],
 =======
@@ -86,10 +90,14 @@
     }
   ],
 >>>>>>> 187a93d3b9a2e7355a69e853a435c8a4a2e2ecdd
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
+      "DocumentGroups": []
+=======
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -337,6 +345,7 @@
           ]
         }
       ]
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
     }
   ]
 }

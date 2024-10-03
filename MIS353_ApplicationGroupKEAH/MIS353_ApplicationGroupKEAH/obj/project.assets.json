@@ -4552,7 +4552,12 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\MISTUser\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
     "C:\\Users\\MISTUser\\.nuget\\packages\\": {}
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
   },
   "project": {
     "version": "1.0.0",
@@ -4565,6 +4570,10 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 2066ee13494aecc1b240893c9826c0480088bc01
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
