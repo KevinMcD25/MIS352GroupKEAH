@@ -1,4 +1,4 @@
-# MIS352GroupKEAH
+# MIS353GroupKEAH
 This is the MIS 353 Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbaugh, and Hayden Rhodes
 
 **Project Dsc**
@@ -30,7 +30,9 @@ This site is a great visual image, I feel like one major part of making a good h
 
 *Eric Scull*
 
-(Insert Here)
+https://www.mapwv.gov/staticMaps.html
+
+This site is an option I was thinking of creating when making the "Map" portion of the wep application. I decided after some consideration to go with one map with roads, which is important for the travel aspects of our web app. It looks okay from the outside, but what's behind the maps is the real treat. Each map has download option by county in different sizes, which is a great feature to have. One downside is that it takes a lot of code to write. One issue about this site is that I can only find static maps. I would like to add a feature to make an interactive map where you can plan trips scroll around the map to find everything you're looking for in West Virginia. I see some JavaScript woven into the HTML which gives this site a good look and feel, as well as decent functionality. 
 
 *Hayden Rhodes*
 
@@ -40,7 +42,9 @@ This site gives weather data similar to what we envision our site to do, but it 
 
 *Andrew Taughinbaugh*
 
-(Insert Here)
+https://www.wv.gov/pages/tourism.aspx
+
+This is page is pretty similar to something we are doing without the weather. This website does have some good features, like a clear navbar and a variety of different choices(Business, Education, Tourism, Government). The look of the site is pretty rough. Everything about it just feels outdated and needs a refresh. I feel like we could use some characteristics of this site in our own and improve the way ours looks and works. 
 
 
 *******************************************************************************************************************************************************************
@@ -55,7 +59,9 @@ I found a similar GitHub repo to the project that we are doing. This code reache
 
 *Eric Scull*
 
-(Insert Here)
+https://github.com/Leaflet/Leaflet/tree/main
+
+This repository has a lot of information about maps that can be used for our web application. It doesn't seem to be updated too frequently, as the last update was two months ago. It is rich with HTML and JavaScript, plenty of ReadMe files, and has code for typical mapping features. Their website actually opens up with a donation request, as Leaflet was founded by a Ukrainian man named Volodymyr Agafonkin. This repository lays out clearly the elements needed to make a standout map for a web application.
 
 *Hayden Rhodes*
 
@@ -65,8 +71,9 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 
 *Andrew Taughinbaugh*
 
-(Insert Here)
+https://github.com/GingerDragon7/react_travel_advisor
 
+This is a travel advisor that has some features we could potentially use in our own site. This has a Google Maps API which could help with finding destinations, and they use a weather API which would be perfect for our travel site. The weather and maps feature would make going to destinations much more streamlined.
 
 *******************************************************************************************************************************************************************
 
@@ -94,6 +101,15 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 
 (9/19) Created Map Page
 
+(9/19) Completed GitHub Research
+
+(9/19) Ran first test of Map Page
+
+(9/19) Added Static Map
+
+(9/19) Added Bootstrap and Foormatted Bootstrap
+
+(9/19) Edited ReadMe
 
 *Hayden Rhodes*
 
@@ -114,11 +130,13 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 
 (9/17) - Created the Informations page
 
-(9/18) - Imported a carousel bootstrap format
+(9/18) - Imported a carousel bootstrap format (https://www.w3schools.com/bootstrap5/bootstrap_carousel.php)
 
 (9/18) - Added test images into the carousel bootstrap
 
 (9/18) - Created a button that reveals information
+
+(9/19) - Added a navbar and changed the colors (https://www.w3schools.com/css/css_navbar_horizontal.asp)
 
 
 *******************************************************************************************************************************************************************
@@ -134,3 +152,10 @@ This GitHub repository is similar to what we want to do.  Though it is a large s
 "What would the code for an interactive map look like in HTML?"
 
 "How can I add a pin on top of a picture in HTML?"
+
+*Andrew Taughinbaugh*
+"why wont my bootstrap work?"
+
+"How do I resize images in the carousel?"
+
+"How do I make my navbar useable?"
