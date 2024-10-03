@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj": {}
+    "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj": {
+    "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
+        "projectUniqueName": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
         "projectName": "MIS353_ApplicationGroupKEAH",
-        "projectPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
+        "projectPath": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
         "packagesPath": "C:\\Users\\MISTUser\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I5HGkM0haDs=",
+  "dgSpecHash": "I8K/IW0Ejag=",
   "success": true,
-  "projectFilePath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
+  "projectFilePath": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MISTUser\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MISTUser\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
