@@ -21,7 +21,11 @@ GO
 create table  [HOSPITALITY] (
 [HID] int PRIMARY KEY IDENTITY(1,1) NOT NULL,
 [HName] nvarchar(255) unique NOT NULL,
+<<<<<<< HEAD
 [HType] nvarchar(255)  NOT NULL,
+=======
+[HType] nvarchar(255) NOT NULL,
+>>>>>>> 99bea37dcb9c8cd7dfad9351643baa37aa9db4eb
 [HRating] int,
 [LID] int NOT NULL,
  FOREIGN KEY ([LID]) REFERENCES [LANDMARKS]([LID])
@@ -44,7 +48,7 @@ create table [USERDATA] (
 [UFName] nvarchar(255) not null,
 [ULName] nvarchar(255) not null,
 [UEmail] nvarchar(255) unique not null,
-[UPhone] int not null
+[UPhone] VARCHAR(15) not null
 FOREIGN KEY ([PID]) REFERENCES [TRAVELPLAN]([PID])
 )
 GO
