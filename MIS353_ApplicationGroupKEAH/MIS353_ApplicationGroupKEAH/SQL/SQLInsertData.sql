@@ -27,7 +27,7 @@ INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID], [PDatetime]) VALUES
 
 -- Insert into USERDATA
 INSERT INTO [USERDATA] ([UID], [PID], [UFName], [ULName], [UEmail], [UPhone]) VALUES
-(1, 1, 'John', 'Doe', 'john.doe@example.com', 1234567890),
-(2, 2, 'Jane', 'Smith', 'jane.smith@example.com', 2345678901),
-(3, 3, 'Alice', 'Johnson', 'alice.johnson@example.com', 3456789012);
+(1, 'John', 'Doe', 'john.doe@example.com', 1234567890),
+(2, 'Jane', 'Smith', 'jane.smith@example.com', 2345678901),
+(3, 'Alice', 'Johnson', 'alice.johnson@example.com', 3456789012);
 GO
