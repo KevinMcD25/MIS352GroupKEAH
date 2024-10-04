@@ -115,6 +115,8 @@ This is a travel advisor that has some features we could potentially use in our 
 
 (9/19) Edited ReadMe
 
+(10/3) Created 2 Stored Procedures
+
 *Hayden Rhodes*
 
 (9/17) - Created Contact page
@@ -141,6 +143,8 @@ This is a travel advisor that has some features we could potentially use in our 
 (9/18) - Created a button that reveals information
 
 (9/19) - Added a navbar and changed the colors (https://www.w3schools.com/css/css_navbar_horizontal.asp)
+
+(10/3) Created 2 Stored Procedures
 
 
 *******************************************************************************************************************************************************************
