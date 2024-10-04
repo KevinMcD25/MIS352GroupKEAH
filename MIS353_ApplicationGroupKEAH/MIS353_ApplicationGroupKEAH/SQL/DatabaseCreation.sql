@@ -1,3 +1,6 @@
+CREATE DATABASE AdventureWV
+GO
+
 use AdventureWV
 GO
 
