@@ -7,9 +7,18 @@ This is an application that is a mix of an adventure WV page and a planning tool
 
 *******************************************************************************************************************************************************************
 
+
+**Company Statement**
+
+Explore Appalachia is your all-in-one travel guide.  We make it easier to find where you want to go, and all that there is to explore in West Virginia simply at the click of one button!  We also plan to implement our state-of-the-art weather technology to include with your booking experience.  When you book a trip through us select where you want to go and we will provide you with the average temperatures and activities that are popular during that time of year.  Additionally, when you book with us, we provide you with a list of lodging accommodations.  Our lodging accommodations also include an average price, a rating system (1-5 stars), and the type of lodging.  So what are you waiting for?  Explore the natural oasis that is West Virginia!
+*******************************************************************************************************************************************************************
+
+
 **Current Phase**
 
 Kevin: We are currently in Phase 1 of our application, we need to develop our first pages
+
+Hayden: We are currently drafting a database
 
 *******************************************************************************************************************************************************************
 
@@ -111,7 +120,7 @@ This is a travel advisor that has some features we could potentially use in our 
 
 (9/19) Added Static Map
 
-(9/19) Added Bootstrap and Foormatted Bootstrap
+(9/19) Added Bootstrap and Formatted Bootstrap
 
 (9/19) Edited ReadMe
 
@@ -128,6 +137,12 @@ This is a travel advisor that has some features we could potentially use in our 
 (9/19) - Completed GitHub Research
 
 (9/19) - Added to future implementations
+
+(10/3) - fixed Htype Key
+
+(10/3) - Created 2 procedures for db
+
+(10/3) - Included company statement
 
 
 *Andrew Taughinbaugh*
@@ -158,8 +173,10 @@ This is a travel advisor that has some features we could potentially use in our 
 "How can I add a pin on top of a picture in HTML?"
 
 *Andrew Taughinbaugh*
-"why wont my bootstrap work?"
+"why won't my bootstrap work?"
 
 "How do I resize images in the carousel?"
 
 "How do I make my navbar useable?"
+
+ "how do I get this proc to stop repeating"
