@@ -26,8 +26,8 @@ INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID], [PDatetime]) VALUES
 (3, 3, 3, '2024-10-15 14:00:00');  -- Plan for Photography with Parisian Stay
 
 -- Insert into USERDATA
-INSERT INTO [USERDATA] ([PID], [UFName], [ULName], [UEmail], [UPhone]) VALUES
-( 'John', 'Doe', 'john.doe@example.com', 1234567890),
-('Jane', 'Smith', 'jane.smith@example.com', 2345678901),
-( 'Alice', 'Johnson', 'alice.johnson@example.com', 3456789012);
+INSERT INTO [USERDATA] ([UID], [PID], [UFName], [ULName], [UEmail], [UPhone]) VALUES
+(1, 'John', 'Doe', 'john.doe@example.com', 1234567890),
+(2, 'Jane', 'Smith', 'jane.smith@example.com', 2345678901),
+(3, 'Alice', 'Johnson', 'alice.johnson@example.com', 3456789012);
 GO
