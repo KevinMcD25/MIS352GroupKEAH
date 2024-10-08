@@ -12,7 +12,7 @@ GO
 --exec DeleteTravelPLan 1
 -- go
 
-create proc AddTravelPlan
+create proc AddUserTravel
 @PID int,
 @HID int,
 @AID int,
