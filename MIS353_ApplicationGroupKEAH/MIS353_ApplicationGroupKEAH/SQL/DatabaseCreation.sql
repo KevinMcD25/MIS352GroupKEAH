@@ -15,11 +15,16 @@ GO
 
 create table [ACTIVITIES] (
     [AID] int PRIMARY KEY IDENTITY(1,1) NOT NULL,
-    [AName] nvarchar(255) unique NOT NULL,
-    [LID] int unique NOT NULL,  
+    [AName] nvarchar(255) NOT NULL,
+    [LID] int  NOT NULL,  
+
     FOREIGN KEY ([LID]) REFERENCES [LANDMARKS]([LID])
 )
 GO
+
+ALTER TABLE ACTIVITIES
+    ADD Constraint ADSD UNIQUE(AName, LID)
+    go
 
 create table  [HOSPITALITY] (
 [HID] int PRIMARY KEY IDENTITY(1,1) NOT NULL,
