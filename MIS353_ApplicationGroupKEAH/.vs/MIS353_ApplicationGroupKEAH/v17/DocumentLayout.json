@@ -27,6 +27,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-19T18:36:34.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "map.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\map.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:38:20.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:36:34.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bootstrap.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:36:34.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-19T18:36:34.739Z"
+=======
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\appsettings.json",
               "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\appsettings.json",
@@ -36,6 +95,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-03T17:48:02.975Z",
               "EditorCaption": ""
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
             }
           ]
         }

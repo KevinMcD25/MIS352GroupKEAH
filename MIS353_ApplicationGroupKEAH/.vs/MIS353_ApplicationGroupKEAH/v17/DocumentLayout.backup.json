@@ -44,7 +44,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+<<<<<<< HEAD
+=======
 >>>>>>> 27200e2bbee1f8b2e29417dbc83a8aa512bfaa1c
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
     }
   ],
   "DocumentGroupContainers": [
@@ -55,14 +58,24 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
+          "SelectedChildIndex": 1,
+=======
+<<<<<<< HEAD
           "SelectedChildIndex": 0,
 =======
           "SelectedChildIndex": 1,
 >>>>>>> 27200e2bbee1f8b2e29417dbc83a8aa512bfaa1c
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+=======
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\appsettings.json",
               "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\appsettings.json",
@@ -99,6 +112,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\wwwroot\\css\\site.css",
@@ -133,11 +147,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T18:36:34.732Z"
+<<<<<<< HEAD
+=======
 >>>>>>> 27200e2bbee1f8b2e29417dbc83a8aa512bfaa1c
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
               "Title": "SQLQuery1.sql ",
               "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\SQLQuery1.sql",
@@ -147,6 +166,7 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-10-03T17:46:30.282Z",
 =======
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
               "Title": "Bootstrap.cshtml",
               "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
               "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Bootstrap.cshtml",
@@ -168,7 +188,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T18:36:34.739Z",
+<<<<<<< HEAD
+=======
 >>>>>>> 27200e2bbee1f8b2e29417dbc83a8aa512bfaa1c
+>>>>>>> f38eff8b81cedc90fdfc0b0bb4572ba96c2a8131
               "EditorCaption": ""
             }
           ]
