@@ -24,11 +24,7 @@ GO
 create table  [HOSPITALITY] (
 [HID] int PRIMARY KEY IDENTITY(1,1) NOT NULL,
 [HName] nvarchar(255) unique NOT NULL,
-<<<<<<< HEAD
 [HType] nvarchar(255)  NOT NULL,
-=======
-[HType] nvarchar(255) NOT NULL,
->>>>>>> 99bea37dcb9c8cd7dfad9351643baa37aa9db4eb
 [HRating] int,
 [LID] int NOT NULL,
  FOREIGN KEY ([LID]) REFERENCES [LANDMARKS]([LID])
