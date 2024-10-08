@@ -18,7 +18,7 @@ AND (@LType IS NULL OR LType = @LType);
 END
 GO
 -- Eric Scull Proc 1
---exec FindLocationDetails @LName = "Grand Canyon" 
+--exec LocationDetails @LName = "Grand Canyon" 
 --go
 
 CREATE PROC HospitalityByLocation
@@ -40,5 +40,5 @@ HOSPITALITY.HRating AS "Hospitality Rating"
 END
 GO
 --Eric Scull Proc 2
---exec GetLandmarkHospitalityDetails; --Run stored procedure
+--exec HospitalityByLocation; --Run stored procedure
 --go
