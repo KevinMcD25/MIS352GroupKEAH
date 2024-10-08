@@ -41,9 +41,16 @@ FOREIGN KEY ([AID]) REFERENCES [ACTIVITIES]([AID])
 )
 GO
 
+create table [UserTravel](
+[PID] int primary key not null,
+[UID] int primary key not null,
+FOREIGN KEY ([PID]) REFERENCES [TRAVELPLAN]([PID]),
+FOREIGN KEY ([UID]) REFERENCES [USERDATA]([UID])
+)
+GO
+
 create table [USERDATA] (
 [UID] int primary key IDENTITY (1,1) not null,
-[PID] int not null,
 [UFName] nvarchar(255) not null,
 [ULName] nvarchar(255) not null,
 [UEmail] nvarchar(255) unique not null,
