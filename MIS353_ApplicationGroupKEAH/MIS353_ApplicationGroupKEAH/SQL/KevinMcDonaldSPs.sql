@@ -5,7 +5,7 @@ GO
 create proc DeleteTravelPlan
 @PID int
 AS
-delete from TRAVELPLAN where PID = @PID
+delete from UserTravel where PID = @PID
 GO
 
 -- Proc 1 Kevin McDonald
