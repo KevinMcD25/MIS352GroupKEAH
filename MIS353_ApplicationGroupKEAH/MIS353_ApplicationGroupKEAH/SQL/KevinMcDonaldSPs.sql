@@ -5,14 +5,14 @@ GO
 create proc DeleteTravelPlan
 @PID int
 AS
-delete from TRAVELPLAN where PID = @PID
+delete from UserTravel where PID = @PID
 GO
 
 -- Proc 1 Kevin McDonald
 --exec DeleteTravelPLan 1
 -- go
 
-create proc AddTravelPlan
+create proc AddUserTravel
 @PID int,
 @HID int,
 @AID int,
