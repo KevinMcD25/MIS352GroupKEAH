@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIS353_ApplicationGroupKEAH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+067aa713b8721016eb959d72401241f38588f1df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11eea9fa7ee7a23ff6786e753aa1b6d2c241a82f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIS353_ApplicationGroupKEAH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIS353_ApplicationGroupKEAH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
