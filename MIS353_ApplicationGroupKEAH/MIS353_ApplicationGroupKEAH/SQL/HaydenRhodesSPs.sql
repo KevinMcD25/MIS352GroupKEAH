@@ -1,9 +1,9 @@
 use AdventureWv
 GO
 --create proc 1
-Create proc SearchHotel
-@HType nvarchar(255) = 'Hotel',
-@HName nvarchar(255) = NULL,
+--Create proc SearchHotel
+--@HType nvarchar(255) = 'Hotel',
+--@HName nvarchar(255) = NULL,
 @HRating int = NULL,
 @LID Int = NULL
 AS
@@ -20,20 +20,25 @@ END
 
 --create proc 2
 
-Create proc NewHospitality
+CREATE PROCEDURE addHospitality
 @HType nvarchar(255),
 @HName nvarchar(255),
 @HRating int = NULL,
-@LID Int = NULL
+@LID Int
 AS
 BEGIN
-	insert into HOSPITALITY(HType,HName,HRating,LID)
-	VALUES (@HType,@HName,@HRating,@LID)
-	
+    -- Check if LID is NULL
+    IF @LID IS NULL
+    BEGIN
+        RAISERROR('LID must be provided and cannot be NULL.', 16, 1);
+        RETURN;  -- Exit the procedure if LID is NULL
+    END
+
+    INSERT INTO HOSPITALITY (HType, HName, HRating, LID)
+    VALUES (@HType, @HName, @HRating, @LID);
 END
-GO
 
---exec NewHospitality @HType = 'Hotel', @HName = 'Motel 6', @HRating = 1,@LID = 1
+exec addHospitality @HType = 'Hotel', @HName = 'Motel 6', @HRating = 1,@LID = 1
 
-DROP Proc NewHospitality
+DROP Proc addHospitality
 GO
