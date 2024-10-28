@@ -15,5 +15,7 @@ namespace AdventureWVApi.Data
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
         }
         public DbSet<Activity> Activity { get; set; }
+
+        public DbSet<Travelplan> Travelplan { get; set; }
     }
 }
