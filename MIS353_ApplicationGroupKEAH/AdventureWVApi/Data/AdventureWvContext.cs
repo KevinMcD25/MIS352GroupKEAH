@@ -192,9 +192,8 @@ public partial class AdventureWvContext : DbContext
                 .HasColumnName("PID");
             entity.Property(e => e.Aid).HasColumnName("AID");
             entity.Property(e => e.Hid).HasColumnName("HID");
-            entity.Property(e => e.Pdatetime)
-                .HasColumnType("datetime")
-                .HasColumnName("PDatetime");
+            
+                
 
             //entity.HasOne(d => d.AidNavigation).WithOne(p => p.Travelplan)
             //    .HasForeignKey<Travelplan>(d => d.Aid)

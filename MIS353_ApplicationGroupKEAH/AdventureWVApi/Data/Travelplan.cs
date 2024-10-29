@@ -13,8 +13,6 @@ public partial class Travelplan
 
     public int Aid { get; set; }
 
-    public DateTime Pdatetime { get; set; }
-
     public virtual Activity AidNavigation { get; set; } = null!;
 
     public virtual Hospitality HidNavigation { get; set; } = null!;
