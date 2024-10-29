@@ -12,14 +12,14 @@ GO
 --exec DeleteTravelPLan 1
 -- go
 
-create proc AddTravelPlan
+create proc AddTravelPlan1
 @PID int,
 @HID int,
 @AID int,
 @PDatetime datetime
 AS
 BEGIN
-	INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID], [PDateTime])
+	INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID])
 	VALUES (@PID, @HID, @AID, @PDatetime)
 	END
 	GO

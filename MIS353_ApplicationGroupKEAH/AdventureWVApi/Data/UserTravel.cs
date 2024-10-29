@@ -13,6 +13,8 @@ public partial class UserTravel
 
     public int Uid { get; set; }
 
+    public int UTDateTime { get; set; }
+
     public virtual Travelplan PidNavigation { get; set; } = null!;
 
     public virtual Userdatum UidNavigation { get; set; } = null!;

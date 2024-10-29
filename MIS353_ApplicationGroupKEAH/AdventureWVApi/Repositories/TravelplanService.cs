@@ -12,15 +12,14 @@ namespace AdventureWVApi.Repositories
             _dbContext = dbContext;
         }
 
-        public async Task<int> PlanAdd(int Pid, int Hid, int Aid, string Pdatetime)
+        public async Task<int> PlanAdd(int Hid, int Aid)
         {
             var parameter = new List<SqlParameter>();
-            parameter.Add(new SqlParameter("@Pid", Pid));
             parameter.Add(new SqlParameter("@Hid", Hid));
             parameter.Add(new SqlParameter("@Aid", Aid));
-            parameter.Add(new SqlParameter("@Pdatetime", Pdatetime));
             
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddUserTravel @Pid, @Hid, @Aid, @Pdatetime", parameter.ToArray());
+            
+            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddPlan1 @Hid, @Aid", parameter.ToArray());
         }
 
         //public async Task<int> PlanDelete(int Pid)
