@@ -22,10 +22,10 @@ namespace AdventureWVApi.Repositories
             return await _dbContext.Database.ExecuteSqlRawAsync("exec AddPlan1 @Hid, @Aid", parameter.ToArray());
         }
 
-        //public async Task<int> PlanDelete(int Pid)
-       /// {
-        //    var param = new SqlParameter("@Pid", Pid);
-        //    return await _dbContext.Database.ExecuteSqlRawAsync("exec DeleteTravelPlan @Pid", param);
-       // }
+        public async Task<int> PlanDelete(int Pid)
+        {
+            var param = new SqlParameter("@Pid", Pid);
+           return await _dbContext.Database.ExecuteSqlRawAsync("exec DeleteTravelPlan @Pid", param);
+        }
     }
 }

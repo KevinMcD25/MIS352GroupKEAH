@@ -1,6 +1,8 @@
 use AdventureWv
 GO
 --create proc 1
+
+--For running APi Select *, LID as Landmark 
 Create proc SearchHotel
 @HType nvarchar(255) = 'Hotel',
 @HName nvarchar(255) = NULL,

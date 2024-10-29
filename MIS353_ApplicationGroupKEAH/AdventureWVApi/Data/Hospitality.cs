@@ -17,7 +17,7 @@ public partial class Hospitality
 
     public int Lid { get; set; }
 
-    public virtual Landmark LidNavigation { get; set; } = null!;
+    //public virtual Landmark? LidNavigation { get; set; } = null!;
 
     //public virtual Travelplan? Travelplan { get; set; }
 }

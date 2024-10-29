@@ -15,16 +15,14 @@ namespace AdventureWVApi.Repositories
             _dbContext = dbContext;
         }
 
-        public async Task<List<Hospitality>> SearchHotelAsync(string HType, string HName, int? HRating, int? LID)
+        public async Task<IEnumerable<Hospitality>> SearchHType(string HType)
         {
             var parameters = new List<SqlParameter>
             {
             new SqlParameter("@Htype", HType),
-            new SqlParameter("@HName", HName),
-            new SqlParameter("@HRating", HType),
-            new SqlParameter("@LID", LID)
+            
             };
-            return await _dbContext.Hospitality.FromSqlRaw("EXEC SearchHotel @HType, @HName, @HRating, @LID",
+            return await _dbContext.Hospitality.FromSqlRaw("EXEC SearchHotel @HType",
                           parameters.ToArray()).ToListAsync();
         }
 
