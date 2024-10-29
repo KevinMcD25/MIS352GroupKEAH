@@ -15,12 +15,9 @@ namespace AdventureWVApi.Controllers
         {
             this.HospitalityService = HospitalityService;
         }
-        [HttpPost("SearchHotelAsync")]
+        [HttpPost("SearchHType")]
         public async Task<IActionResult> SearchHotelAsync(
-            string HType = "Hotel",
-            string HName = null,
-            int? HRating = null,
-            int? LID = null)
+            string HType = null)
         {
             if (SearchHotelAsync == null)
             {
@@ -28,7 +25,7 @@ namespace AdventureWVApi.Controllers
             }
             try
             {
-                var response = await HospitalityService.SearchHotelAsync(HType, HName, HRating, LID);
+                var response = await HospitalityService.SearchHType(HType);
                 return Ok(response);
             }
             catch

@@ -154,10 +154,10 @@ public partial class AdventureWvContext : DbContext
                 .HasColumnName("HType");
             entity.Property(e => e.Lid).HasColumnName("LID");
 
-            entity.HasOne(d => d.LidNavigation).WithMany(p => p.Hospitalities)
-                .HasForeignKey(d => d.Lid)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__HOSPITALITY__LID__3F466844");
+            //entity.HasOne(d => d.LidNavigation).WithMany(p => p.Hospitalities)
+            //    .HasForeignKey(d => d.Lid)
+            //    .OnDelete(DeleteBehavior.ClientSetNull)
+            //    .HasConstraintName("FK__HOSPITALITY__LID__3F466844");
         });
 
         modelBuilder.Entity<Landmark>(entity =>
