@@ -1,9 +1,9 @@
 use AdventureWv
 GO
 --create proc 1
---Create proc SearchHotel
---@HType nvarchar(255) = 'Hotel',
---@HName nvarchar(255) = NULL,
+Create proc SearchHotel
+@HType nvarchar(255) = 'Hotel',
+@HName nvarchar(255) = NULL,
 @HRating int = NULL,
 @LID Int = NULL
 AS
@@ -20,7 +20,7 @@ END
 
 --create proc 2
 
-CREATE PROCEDURE addHospitality
+CREATE proc addHospitality
 @HType nvarchar(255),
 @HName nvarchar(255),
 @HRating int = NULL,
@@ -38,7 +38,7 @@ BEGIN
     VALUES (@HType, @HName, @HRating, @LID);
 END
 
-exec addHospitality @HType = 'Hotel', @HName = 'Motel 6', @HRating = 1,@LID = 1
+--exec addHospitality @HType = 'Hotel', @HName = 'Motel 6', @HRating = 1,@LID = 1
 
-DROP Proc addHospitality
-GO
+--DROP Proc addHospitality
+--GO
