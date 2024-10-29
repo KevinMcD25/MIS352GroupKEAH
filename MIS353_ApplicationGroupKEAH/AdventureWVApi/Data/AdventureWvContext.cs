@@ -196,10 +196,10 @@ public partial class AdventureWvContext : DbContext
                 .HasColumnType("datetime")
                 .HasColumnName("PDatetime");
 
-            entity.HasOne(d => d.AidNavigation).WithOne(p => p.Travelplan)
-                .HasForeignKey<Travelplan>(d => d.Aid)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__TRAVELPLAN__AID__44FF419A");
+            //entity.HasOne(d => d.AidNavigation).WithOne(p => p.Travelplan)
+            //    .HasForeignKey<Travelplan>(d => d.Aid)
+            //    .OnDelete(DeleteBehavior.ClientSetNull)
+            //    .HasConstraintName("FK__TRAVELPLAN__AID__44FF419A");
 
             entity.HasOne(d => d.HidNavigation).WithOne(p => p.Travelplan)
                 .HasForeignKey<Travelplan>(d => d.Hid)

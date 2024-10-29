@@ -18,17 +18,12 @@ namespace AdventureWVApi.Controllers
             this.TravelplanService = TravelplanService;
         }
         [HttpPost("PlanAdd")]
-        public async Task<IActionResult> PlanAddAsync(Travelplan travelplan)
+        public async Task<IActionResult> PlanAddAsync(int Pid, int Hid, int Aid, string Pdatetime)
         {
 
-
-            if (travelplan == null)
-            {
-                return BadRequest();
-            }
             try
             {
-                var response = await TravelplanService.PlanAdd(travelplan);
+                var response = await TravelplanService.PlanAdd(Pid, Hid, Aid, Pdatetime);
                 return Ok(response);
             }
             catch
