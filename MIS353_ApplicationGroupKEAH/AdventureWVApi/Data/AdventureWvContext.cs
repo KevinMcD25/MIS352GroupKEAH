@@ -201,10 +201,10 @@ public partial class AdventureWvContext : DbContext
             //    .OnDelete(DeleteBehavior.ClientSetNull)
             //    .HasConstraintName("FK__TRAVELPLAN__AID__44FF419A");
 
-            entity.HasOne(d => d.HidNavigation).WithOne(p => p.Travelplan)
-                .HasForeignKey<Travelplan>(d => d.Hid)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__TRAVELPLAN__HID__440B1D61");
+        //    entity.HasOne(d => d.HidNavigation).WithOne(p => p.Travelplan)
+        //        .HasForeignKey<Travelplan>(d => d.Hid)
+        //        .OnDelete(DeleteBehavior.ClientSetNull)
+        //        .HasConstraintName("FK__TRAVELPLAN__HID__440B1D61");
         });
 
         modelBuilder.Entity<UserTravel>(entity =>

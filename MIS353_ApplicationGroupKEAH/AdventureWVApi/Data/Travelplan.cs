@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace AdventureWVApi.Data;
 
 public partial class Travelplan
 {
+    [Key]
     public int Pid { get; set; }
 
     public int Hid { get; set; }
