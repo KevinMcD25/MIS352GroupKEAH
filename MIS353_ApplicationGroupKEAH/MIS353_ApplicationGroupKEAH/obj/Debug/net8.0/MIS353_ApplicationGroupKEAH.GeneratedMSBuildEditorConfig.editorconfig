@@ -9,63 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MIS353_ApplicationGroupKEAH
 build_property.RootNamespace = MIS353_ApplicationGroupKEAH
-build_property.ProjectDir = C:\Users\kevin\OneDrive\Desktop\School\MIS 353\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\
+build_property.ProjectDir = C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\kevin\OneDrive\Desktop\School\MIS 353\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH
+build_property.MSBuildProjectDirectory = C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Bootstrap.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Bootstrap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9vdHN0cmFwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Contacts.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Contacts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Error.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Index.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Information.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Information.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mb3JtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/map.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/map.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbWFwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Privacy.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/_ViewImports.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/_ViewStart.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/kevin/OneDrive/Desktop/School/MIS 353/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_Layout.cshtml]
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-swh1mv2qnx
