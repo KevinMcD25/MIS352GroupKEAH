@@ -13,21 +13,22 @@ namespace AdventureWVApi.Repositories
         }
 
 
-        public async Task<int> AddActivity2(Activity activity) {
+        public async Task<int> AddActivity2(string Aname, int Lid) {
             var parameter = new List<SqlParameter>();
-            parameter.Add(new SqlParameter("@Aname", activity.Aname));
-            parameter.Add(new SqlParameter("@LID", activity.Lid)); 
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddActivity2 @Aname, @LID", parameter.ToArray());
+            parameter.Add(new SqlParameter("@Aname", Aname));
+            parameter.Add(new SqlParameter("@Lid", Lid)); 
+            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddActivity2 @Aname, @Lid", parameter.ToArray());
         }
-        public async Task<int> UpdateActivities(Activity activity)
-        {
-            var parameter = new List<SqlParameter>();
-            parameter.Add(new SqlParameter("@AID", activity.Aid)); 
-            parameter.Add(new SqlParameter("@Aname", activity.Aname));
-            parameter.Add(new SqlParameter("@LID", activity.Lid));
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec UpdateActivities @AID, @Aname, @LID", parameter.ToArray());
-        }
+       // public async Task<int> UpdateActivities(Activity activity)
+        //{
+           // var parameter = new List<SqlParameter>();
+           // parameter.Add(new SqlParameter("@AID", activity.Aid)); 
+           // parameter.Add(new SqlParameter("@Aname", activity.Aname));
+            //parameter.Add(new SqlParameter("@LID", activity.Lid));
+           // return await _dbContext.Database.ExecuteSqlRawAsync("exec UpdateActivities @AID, @Aname, @LID", parameter.ToArray());
+       // }
     }
-}
+    }
+
     
 

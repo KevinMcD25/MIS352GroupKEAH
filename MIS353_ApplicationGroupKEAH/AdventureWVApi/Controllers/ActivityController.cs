@@ -16,15 +16,12 @@ namespace AdventureWVApi.Controllers
             this.ActivityService = activityService;
         }
         [HttpPost("AddActivity2")]
-        public async Task<IActionResult> AddActivityAsync(Activity activity)
+        public async Task<IActionResult> AddActivityAsync(string Aname, int Lid)
         {
-            if (activity == null)
-            {
-                return BadRequest();
-            }
+            
             try
             {
-                var response = await ActivityService.AddActivity2(activity);
+                var response = await ActivityService.AddActivity2(Aname, Lid);
                 return Ok(response);
             }
             catch
@@ -32,22 +29,21 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
-        [HttpPut("UpdateActivities")]
-        public async Task<IActionResult> UpdateActivitiesAsync(Activity activity)
-        {
-            if (activity == null)
-            {
-                return BadRequest();
-            }
-            try
-            {
-                var result = await ActivityService.UpdateActivities(activity);
-                return Ok(result);
-            }
-            catch
-            {
-                throw;
-            }
+       // [HttpPut("UpdateActivities")]
+      //  public async Task<IActionResult> UpdateActivitiesAsync(string Aname, int Lid)
+      //  {
+           
+         //   try
+            /// <summary>
+            /// /{
+            /// </summary>
+               // var result = await ActivityService.UpdateActivities(Aname, Lid);
+                //return Ok(result);
+            ////}
+            //catch
+            //{
+               // throw;
+            //}
         }
     }
-}
+
