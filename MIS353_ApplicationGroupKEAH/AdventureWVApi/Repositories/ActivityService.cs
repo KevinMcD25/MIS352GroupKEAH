@@ -11,7 +11,7 @@ namespace AdventureWVApi.Repositories
         {
             _dbContext = dbContext;
         }
-
+        
 
         public async Task<int> ActivityAdd2(Activity activity) {
             var parameter = new List<SqlParameter>();
