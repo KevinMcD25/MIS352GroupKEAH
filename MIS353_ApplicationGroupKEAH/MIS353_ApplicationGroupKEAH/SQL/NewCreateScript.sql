@@ -36,14 +36,20 @@ create table  [HOSPITALITY] (
 )
 GO
 
+
+
 create table [TRAVELPLAN] (
 [PID] int primary key IDENTITY (1,1) not null,
-[HID] int unique not null,
-[AID] int unique not null,
+[HID] int  not null,
+[AID] int  not null,
 FOREIGN KEY ([HID]) REFERENCES [HOSPITALITY]([HID]),
 FOREIGN KEY ([AID]) REFERENCES [ACTIVITIES]([AID])
 )
 GO
+
+ALTER TABLE TRAVELPLAN
+    ADD Constraint ADLD UNIQUE(HID, AID)
+    go
 
 
 
@@ -65,4 +71,3 @@ FOREIGN KEY ([PID]) REFERENCES [TRAVELPLAN]([PID]),
 FOREIGN KEY ([UID]) REFERENCES [USERDATA]([UID])
 )
 GO
-
