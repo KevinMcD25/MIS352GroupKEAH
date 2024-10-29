@@ -6,7 +6,7 @@ namespace AdventureWVApi.Repositories
     {
         Task<int> PlanAdd(Travelplan travelplan);
 
-        Task<int> PlanDelete(Travelplan travelplan);
+        //Task<int> PlanDelete(Travelplan travelplan);
        
     }
 }

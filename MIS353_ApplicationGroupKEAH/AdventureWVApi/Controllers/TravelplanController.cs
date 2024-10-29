@@ -19,8 +19,8 @@ namespace AdventureWVApi.Controllers
         }
         [HttpPost("PlanAdd")]
         public async Task<IActionResult> PlanAddAsync(Travelplan travelplan)
-            {
-                
+        {
+
 
             if (travelplan == null)
             {
@@ -37,12 +37,13 @@ namespace AdventureWVApi.Controllers
             }
         }
 
-        [HttpDelete("deleteplan")]
-        public async Task<IActionResult> PlanDelete(int Pid)
-        {
-            var response = await TravelplanService.PlanDelete(Pid);
-            return  Ok(response);
-        }
-        
+       // [HttpDelete("deleteplan")]
+       // {
+        //  public async Task<IActionResult> PlanDelete(int Pid)
+
+        //      var response = await TravelplanService.PlanDelete(Pid);
+        //      return  Ok(response);
+       // }
+
     }
 }
