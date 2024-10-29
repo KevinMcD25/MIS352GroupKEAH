@@ -20,20 +20,20 @@ INSERT INTO [HOSPITALITY] ([HName], [HType], [HRating], [LID]) VALUES
 ('Parisian Stay', 'Hotel', 4, 3);  -- Associated with Eiffel Tower
 
 -- Insert into TRAVELPLAN
-INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID], [PDatetime]) VALUES
-(1, 1, 1, '2024-10-10 10:00:00'),  -- Plan for Hiking with Canyon Hotel
-(2, 2, 2, '2024-10-12 12:00:00'),  -- Plan for Sightseeing with Liberty Inn
-(3, 3, 3, '2024-10-15 14:00:00');  -- Plan for Photography with Parisian Stay
+INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID]) VALUES
+(1, 1, 1),  -- Plan for Hiking with Canyon Hotel
+(2, 2, 2),  -- Plan for Sightseeing with Liberty Inn
+(3, 3, 3);  -- Plan for Photography with Parisian Stay
 
 -- Insert into USERDATA
 INSERT INTO [USERDATA] ([UFName], [ULName], [UEmail], [UPhone]) VALUES
-('John', 'Doe', 'john.doe@example.com', 1234567890),
-('Jane', 'Smith', 'jane.smith@example.com', 2345678901),
-('Alice', 'Johnson', 'alice.johnson@example.com', 3456789012);
+('John', 'Doe', 'john.doe@example.com', '1234567890'),
+('Jane', 'Smith', 'jane.smith@example.com', '2345678901'),
+('Alice', 'Johnson', 'alice.johnson@example.com', '3456789012');
 GO
 
-INSERT INTO [UserTravel] ([UID], [PID]) VALUES
-(1, 1),
-(2, 2),
-(3, 3);
+INSERT INTO [UserTravel] ([UID], [PID], [UTDateTime]) VALUES
+(1, 1, 2024-10-10),
+(2, 2, 2024-10-11),
+(3, 3, 2024-10-12);
 GO
