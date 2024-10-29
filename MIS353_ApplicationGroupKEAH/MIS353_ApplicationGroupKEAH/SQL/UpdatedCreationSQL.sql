@@ -66,8 +66,3 @@ FOREIGN KEY ([UID]) REFERENCES [USERDATA]([UID])
 )
 GO
 
-
-
-
-
-

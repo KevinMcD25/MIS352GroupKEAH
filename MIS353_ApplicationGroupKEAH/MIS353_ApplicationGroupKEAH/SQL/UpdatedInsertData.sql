@@ -20,10 +20,10 @@ INSERT INTO [HOSPITALITY] ([HName], [HType], [HRating], [LID]) VALUES
 ('Parisian Stay', 'Hotel', 4, 3);  -- Associated with Eiffel Tower
 
 -- Insert into TRAVELPLAN
-INSERT INTO [TRAVELPLAN] ([PID], [HID], [AID]) VALUES
-(1, 1, 1),  -- Plan for Hiking with Canyon Hotel
-(2, 2, 2),  -- Plan for Sightseeing with Liberty Inn
-(3, 3, 3);  -- Plan for Photography with Parisian Stay
+INSERT INTO [TRAVELPLAN] ([HID], [AID]) VALUES
+( 1, 1),  -- Plan for Hiking with Canyon Hotel
+( 2, 2),  -- Plan for Sightseeing with Liberty Inn
+( 3, 3);  -- Plan for Photography with Parisian Stay
 
 -- Insert into USERDATA
 INSERT INTO [USERDATA] ([UFName], [ULName], [UEmail], [UPhone]) VALUES

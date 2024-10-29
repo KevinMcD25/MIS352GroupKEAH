@@ -4,9 +4,11 @@ namespace AdventureWVApi.Repositories
 {
     public interface ITravelplanService
     {
-        Task<int> PlanAdd(Travelplan travelplan);
+        Task<int> PlanAdd(int Pid, int Hid, int Aid, string Pdatetime);
 
-        Task<int> PlanDelete(Travelplan travelplan);
+        //Task<int> PlanDelete(Travelplan travelplan);
+
+   
        
     }
 }

@@ -12,23 +12,21 @@ namespace AdventureWVApi.Repositories
             _dbContext = dbContext;
         }
 
-        public async Task<int> PlanAdd(Travelplan travelplan)
+        public async Task<int> PlanAdd(int Pid, int Hid, int Aid, string Pdatetime)
         {
             var parameter = new List<SqlParameter>();
-            parameter.Add(new SqlParameter("@Pid", travelplan.Pid));
-            parameter.Add(new SqlParameter("@Hid", travelplan.Hid));
-            parameter.Add(new SqlParameter("@Aid", travelplan.Aid));
-            parameter.Add(new SqlParameter("@Pdatetime", travelplan.Pdatetime));
-            parameter.Add(new SqlParameter("@AidNavigation", travelplan.AidNavigation));
-            parameter.Add(new SqlParameter("@HidNavigation", travelplan.HidNavigation));
-            parameter.Add(new SqlParameter("@UserTravels", travelplan.UserTravels));
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddUserTravel @Pid, @Hid, @Aid, @Pdatetime,@AidNavigation,@HidNavigation,@UserTravels", parameter.ToArray());
+            parameter.Add(new SqlParameter("@Pid", Pid));
+            parameter.Add(new SqlParameter("@Hid", Hid));
+            parameter.Add(new SqlParameter("@Aid", Aid));
+            parameter.Add(new SqlParameter("@Pdatetime", Pdatetime));
+            
+            return await _dbContext.Database.ExecuteSqlRawAsync("exec AddUserTravel @Pid, @Hid, @Aid, @Pdatetime", parameter.ToArray());
         }
 
-        public async Task<int> PlanDelete(int Pid)
-        {
-            var param = new SqlParameter("@Pid", Pid);
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec DeleteTravelPlan @Pid", param);
-        }
+        //public async Task<int> PlanDelete(int Pid)
+       /// {
+        //    var param = new SqlParameter("@Pid", Pid);
+        //    return await _dbContext.Database.ExecuteSqlRawAsync("exec DeleteTravelPlan @Pid", param);
+       // }
     }
 }
