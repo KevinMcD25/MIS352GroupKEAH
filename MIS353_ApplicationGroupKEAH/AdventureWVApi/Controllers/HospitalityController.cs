@@ -1,86 +1,56 @@
-﻿using AdventureWVApi.Repositories;
+﻿using AdventureWVApi.Data;
+using AdventureWVApi.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AdventureWVApi.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class HospitalityController : ControllerBase
     {
-        private readonly IHospitalityService hospitalityService;
-        // GET: HospitalityController
-        public ActionResult Index()
+        private readonly IHospitalityService HospitalityService;
+        public HospitalityController(IHospitalityService HospitalityService)
         {
-            return View();
+            this.HospitalityService = HospitalityService;
         }
-
-        // GET: HospitalityController/Details/5
-        public ActionResult Details(int id)
+        [HttpPost("SearchHotelAsync")]
+        public async Task<IActionResult> SearchHotelAsync(
+            string HType = "Hotel",
+            string HName = null,
+            int? HRating = null,
+            int? LID = null)
         {
-            return View();
-        }
-
-        // GET: HospitalityController/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: HospitalityController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
-        {
+            if (SearchHotelAsync == null)
+            {
+                return BadRequest();
+            }
             try
             {
-                return RedirectToAction(nameof(Index));
+                var response = await HospitalityService.SearchHotelAsync(HType, HName, HRating, LID);
+                return Ok(response);
             }
             catch
             {
-                return View();
+                throw;
             }
         }
-
-        // GET: HospitalityController/Edit/5
-        public ActionResult Edit(int id)
+        [HttpPut("AddHospitality")]
+        public async Task<IActionResult> AddHopiality(Hospitality hospitality)
         {
-            return View();
-        }
-
-        // POST: HospitalityController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
+            if (hospitality == null)
+            {
+                return BadRequest();
+            }
             try
             {
-                return RedirectToAction(nameof(Index));
+                var result = await HospitalityService.AddHospitality(hospitality);
+                return Ok(result);
             }
             catch
             {
-                return View();
-            }
-        }
-
-        // GET: HospitalityController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: HospitalityController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
+                throw;
             }
         }
     }
