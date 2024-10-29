@@ -15,7 +15,7 @@ namespace AdventureWVApi.Controllers
         {
             this.HospitalityService = HospitalityService;
         }
-        [HttpPost("SearchHType")]
+        [HttpGet("SearchHType")]
         public async Task<IActionResult> SearchHotelAsync(
             string HType = null)
         {
@@ -33,7 +33,7 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
-        [HttpPut("AddHospitality")]
+        [HttpPost("AddHospitality")]
         public async Task<IActionResult> AddHopiality(Hospitality hospitality)
         {
             if (hospitality == null)
