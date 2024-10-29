@@ -29,21 +29,7 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
-       // [HttpPut("UpdateActivities")]
-      //  public async Task<IActionResult> UpdateActivitiesAsync(string Aname, int Lid)
-      //  {
-           
-         //   try
-            /// <summary>
-            /// /{
-            /// </summary>
-               // var result = await ActivityService.UpdateActivities(Aname, Lid);
-                //return Ok(result);
-            ////}
-            //catch
-            //{
-               // throw;
-            //}
+      
         }
     }
 
