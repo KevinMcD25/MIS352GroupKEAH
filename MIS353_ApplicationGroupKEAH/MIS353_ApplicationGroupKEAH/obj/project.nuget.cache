@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "IzvrZqtjnrE=",
+=======
   "dgSpecHash": "IQjpbqczcGY=",
+>>>>>>> 0f63cc158537fae482eb0f2cec1b734b8e3fbd95
   "success": true,
   "projectFilePath": "C:\\Users\\MISTUser\\Source\\Repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj",
   "expectedPackageFiles": [

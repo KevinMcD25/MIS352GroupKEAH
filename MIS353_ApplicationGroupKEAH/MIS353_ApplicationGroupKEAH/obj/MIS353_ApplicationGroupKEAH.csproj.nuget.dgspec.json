@@ -15,6 +15,10 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 0f63cc158537fae482eb0f2cec1b734b8e3fbd95
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
