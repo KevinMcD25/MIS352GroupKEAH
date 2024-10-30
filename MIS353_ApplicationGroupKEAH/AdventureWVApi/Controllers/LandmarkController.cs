@@ -32,7 +32,7 @@ namespace AdventureWVApi.Controllers
             }
         }
             [HttpGet("SearchLType")]
-            public async Task<IActionResult> SearchLandmarkAsync( string LType = null)
+            public async Task<IActionResult> SearchLandmarkAsync( string Ltype = null)
             {
                 if (SearchLandmarkAsync == null)
                 {
@@ -40,7 +40,7 @@ namespace AdventureWVApi.Controllers
                 }
                 try
                 {
-                    var response = await LandmarkService.SearchLType(LType);
+                    var response = await LandmarkService.SearchLType(Ltype);
                     return Ok(response);
                 }
                 catch
