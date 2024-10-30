@@ -6,7 +6,7 @@ This API adds a plan to the Travel Plan table
 Inputs : HID, AID
 OUTPUT PID, HID, AID
 
-API 2 PlannDelete
+API 2 PlanDelete
 
 This API deletes a plan in the Travel Plan table
 Inputs : PID

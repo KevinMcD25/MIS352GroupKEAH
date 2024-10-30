@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MIS353_ApplicationGroupKEAH", "MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH.csproj", "{E656E621-E287-43B8-9030-F74197B55E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWVApi", "AdventureWVApi\AdventureWVApi.csproj", "{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWVApi", "AdventureWVApi\AdventureWVApi.csproj", "{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
