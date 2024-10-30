@@ -6,6 +6,6 @@ namespace AdventureWVApi.Repositories
     {
         Task<int> LandmarkAdd(string Lname, string Ltype);
 
-        Task<IEnumerable<Landmark>> SearchLType(string LType);
+        Task<IEnumerable<Landmark>> SearchLType(string Ltype);
     }
 }
