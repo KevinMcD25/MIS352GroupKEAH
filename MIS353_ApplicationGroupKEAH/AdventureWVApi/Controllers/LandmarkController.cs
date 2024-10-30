@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using AdventureWVApi.Repositories;
 using AdventureWVApi.Data;
+using Microsoft.Identity.Client;
 
 namespace AdventureWVApi.Controllers
 {
@@ -30,5 +31,23 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
+            [HttpGet("SearchLType")]
+            public async Task<IActionResult> SearchLandmarkAsync( string LType = null)
+            {
+                if (SearchLandmarkAsync == null)
+                {
+                    return BadRequest();
+                }
+                try
+                {
+                    var response = await LandmarkService.SearchLType(LType);
+                    return Ok(response);
+                }
+                catch
+                {
+                    throw;
+                }
+            }
+        }
     }
-}
+
