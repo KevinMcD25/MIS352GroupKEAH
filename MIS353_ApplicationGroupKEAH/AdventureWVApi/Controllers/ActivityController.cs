@@ -30,15 +30,15 @@ namespace AdventureWVApi.Controllers
             }
         }
         [HttpGet("SearchActivity")]
-        public async Task<IActionResult> SearchActivityAsync(string Aname = null)
+        public async Task<IActionResult> SearchActivityAsync(string Aname)
         {
-            if (SearchActivityAsync == null)
+            if (Aname == null)
             {
                 return BadRequest();
             }
             try
             {
-                var response = await ActivityService.SearchActivity(Aname);
+                var response = await ActivityService.SearchActivity (Aname);
                 return Ok(response);
             }
             catch

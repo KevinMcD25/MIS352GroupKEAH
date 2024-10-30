@@ -4,19 +4,21 @@ go
 
 
 create proc SearchActivity
-@AID int,
-@Aname nvarchar(255) = 'Hiking',
+@Aid int,
+@Aname nvarchar(255),
 @LName nvarchar(255) = null
 AS
 BEGIN
 SET NOCOUNT ON;
 
-Select AID as 'Activity ID', AName as 'Activtity Name', LName as 'Location Name'
-from ACTIVITIES, LANDMARKS
+Select Aid as 'Activity ID', Aname as 'Activtity Name', LName as 'Location Name'
+from ACTIVITIES A
+Inner Join LANDMARKS L on A.LID = L.LID
 
-where AName = @AName 
+where Aname = @Aname 
 end
-
+GO
 
 --Searches Activity
--- exec SearchActivity 1
+ exec SearchActivity 1, 'Hiking'
+ go
