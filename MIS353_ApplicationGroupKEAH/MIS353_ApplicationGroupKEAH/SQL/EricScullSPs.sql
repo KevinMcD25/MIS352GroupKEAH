@@ -42,3 +42,16 @@ GO
 --Eric Scull Proc 2
 --exec HospitalityByLocation; --Run stored procedure
 --go
+Use AdventureWV
+GO
+
+Create proc SearchLandmark2
+@Ltype nvarchar(255) 
+AS
+BEGIN
+SET NOCOUNT ON;
+
+   SELECT LName AS 'Hotel Name'
+   FROM LANDMARKS
+   WHERE Ltype = @Ltype 
+END
