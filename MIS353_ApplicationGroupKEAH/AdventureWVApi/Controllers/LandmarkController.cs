@@ -8,7 +8,7 @@ namespace AdventureWVApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class LandmarkController : Controller
+    public class LandmarkController : ControllerBase
     {
         private readonly ILandmarkService LandmarkService;
 
