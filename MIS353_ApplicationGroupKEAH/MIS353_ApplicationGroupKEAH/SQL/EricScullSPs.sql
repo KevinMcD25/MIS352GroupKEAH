@@ -46,12 +46,13 @@ Use AdventureWV
 GO
 
 Create proc SearchLandmark2
+@LID int,
 @Ltype nvarchar(255) 
 AS
 BEGIN
 SET NOCOUNT ON;
 
-   SELECT LName AS 'Hotel Name'
-   FROM LANDMARKS
+SELECT LName AS 'Landmark Name', LID AS 'Landmark ID'
+FROM LANDMARKS
    WHERE Ltype = @Ltype 
 END
