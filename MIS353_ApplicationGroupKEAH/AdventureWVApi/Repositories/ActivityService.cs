@@ -21,9 +21,8 @@ namespace AdventureWVApi.Repositories
         }
         public async Task<string> SearchActivity(string Aname)
         {
-            var parameters = new SqlParameter("Aname", Aname);
-            
-            return await _dbContext.Database.ExecuteSqlRawAsync("EXEC SearchActivity @Aname", parameters);
+            var parameters = new SqlParameter("@Aname",Aname);
+            return await _dbContext.Database.ExecuteSqlRawAsync("EXEC SearchActivity1 @Aname", parameters);
         
         }
 
