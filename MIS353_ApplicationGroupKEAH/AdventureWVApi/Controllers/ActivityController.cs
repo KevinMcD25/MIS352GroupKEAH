@@ -33,7 +33,7 @@ namespace AdventureWVApi.Controllers
         public async Task<IActionResult> SearchActivity(string Aname)
         {
            
-                var response = await ActivityService.SearchActivity (Aname);
+                var response = await ActivityService.SearchActivity(Aname);
                 return Ok(response);
             }
            
