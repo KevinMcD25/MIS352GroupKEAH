@@ -29,13 +29,13 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
-        [HttpGet("SearchActivity")]
-        public async Task<IActionResult> SearchActivity(string Aname)
-        {
-           
-                var response = await ActivityService.SearchActivity(Aname);
-                return Ok(response);
-            }
+       // [HttpGet("SearchActivity")]
+       // public async Task<IActionResult> SearchActivity(string Aname)
+       // {
+        //   
+         //       var response = await ActivityService.SearchActivity(Aname);
+        //        return Ok(response);
+        //    }
            
         }
     }

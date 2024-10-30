@@ -19,5 +19,7 @@ namespace AdventureWVApi.Data
         public DbSet<Travelplan> Travelplan { get; set; }
 
         public DbSet<Hospitality> Hospitality { get; set; }
+
+        public DbSet<Landmark> Landmark { get; set; }
     }
 }
