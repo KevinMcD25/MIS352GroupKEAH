@@ -18,7 +18,7 @@ namespace AdventureWVApi.Repositories
         public async Task<int> UserTravelDelete(int UTID)
         {
             var param = new SqlParameter("@UTID", UTID);
-            return await _dbContext.Database.ExecuteSqlRawAsync("exec UserTravelDelete @UTID", param);
+            return await _dbContext.Database.ExecuteSqlRawAsync("exec  DeleteUserTravel @UTID", param);
         }
         public async Task<int> UserTravelAdd(int Pid, int Uid, DateTime UTDateTime)
         {
