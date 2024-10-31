@@ -29,5 +29,7 @@ namespace AdventureWVApi.Repositories
 
             return await _dbContext.Database.ExecuteSqlRawAsync("exec UserTravelAdd @Pid, @Uid, @UTDateTime", parameter.ToArray());
         }
+
+       
     }
 }

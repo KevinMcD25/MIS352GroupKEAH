@@ -28,7 +28,7 @@ namespace AdventureWVApi.Controllers
         [HttpPost("AddUserTravel")]
         public async Task<IActionResult> UserTravelAdd(int Pid, int Uid, DateTime UTDateTime)
         {
-            var response = await UserTravelService.AddUserTravel(Pid, Uid, UTDateTime);
+            var response = await UserTravelService.UserTravelAdd(Pid, Uid, UTDateTime);
             return Ok(response);
         }
     }
