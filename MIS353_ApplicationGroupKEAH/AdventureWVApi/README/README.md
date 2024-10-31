@@ -3,23 +3,25 @@ This is the MIS 353 API Repo for ( Kevin McDonald, Eric Scull, Andrew Taughinbau
 *********************************************************************************************************************************************
 API's<br>
 
-1. Hospitality Search - Allows users to search what type of lodging they would like to stay at.  When we go to build our website, we plan to have a drop-down search instead of user input.  Users will be able to choose between. Hotel, Inn, Camping, etc. When the user selects an option, it will display all results within our system to the user.<br>
+1. Hospitality Search<br>
+Allows users to search for what type of lodging they would like to stay at.  When we go to build our website, we plan to have a drop-down search instead of user input.  Users will be able to choose between. Hotel, Inn, Camping, etc. When the user selects an option, it will display all results within our system to the user.<br>
 Input: Htype<br>
 Output: HID, HName, HRating, LID<br>
 
-3. addHospitality - Allows for the addition of hospitality options for front-end programming into the database.  It is a measure to circumvent SQL Injection<br>
+3. addHospitality<br>
+Allows for the addition of hospitality options for front-end programming into the database.  It is a measure to circumvent SQL Injection<br>
 Input: HID, HType, HName, HRating, LID<br>
 Output: -> Sends to Database <br>
 
 5. TravelPlan Add<br>
 This API adds a plan to the Travel Plan table<br>
-Inputs : HID, AID<br>
+Inputs: HID, AID<br>
 OUTPUT PID, HID, AID<br>
 
 4. PlanDelete<br>
 
 This API deletes a plan in the Travel Plan table<br>
-Inputs : PID<br>
+Inputs: PID<br>
 OUTPUT : Drop(travel plan)<br>
 
 5.
@@ -34,15 +36,12 @@ This API adds a UserTravel to the table.<br>
 Inputs: PID, UID, UTDateTime<br>
 Output: PID, UID, UTDateTime<br>
 
-7.
-Landmark Search
+7. Landmark Search<br>
 This API allows the user to search for landmarks using Landmark Type.<br>
-
 Input: LType<br>
 Output: LType
 
-8.
-Landmark Add
+8. Landmark Add<br>
 This API gives the user the chance to add their own landmark if they find something not in our database. <br>
 
 Input: LName, LType<br>
