@@ -3,20 +3,20 @@ go
 --create proc
 
 
---create proc SearchActivity1
+create proc SearchActivity1
 
---@Aname nvarchar(255)
+@Aname nvarchar(255)
 
---AS
---BEGIN
---SET NOCOUNT ON;
-----SELECT FROM ACTIVITIES
+AS
+BEGIN
+SET NOCOUNT ON;
+SELECT FROM ACTIVITIES
 
 
---where Aname = @Aname 
---end
---GO
+where Aname = @Aname 
+end
+GO
 
---Searches Activity
+Searches Activity
  exec SearchActivity 1, 'Hiking'
  go
