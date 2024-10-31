@@ -59,6 +59,8 @@ Kevin:<br>
 (10/28)
 
 Andrew:<br>
+(10/28) - Completed ActivityAdd2 API<br>
+(10/31) - Completed UserTravelAdd API<br>
 
 Eric:<br>
 (10/30) - Completed LandmarkAdd API<br>
