@@ -19,19 +19,16 @@ Inputs: HID, AID<br>
 OUTPUT PID, HID, AID<br>
 
 4. PlanDelete<br>
-
 This API deletes a plan in the Travel Plan table<br>
 Inputs: PID<br>
 OUTPUT : Drop(travel plan)<br>
 
-5.
-AddActivity2 (Andrew)<br>
+5. AddActivity2 (Andrew)<br>
 This API adds an activity in the Activities table.<br>
 Inputs: Aname, LID<br>
 Output: Aname, LID<br>
 
-6.
-UserTravelAdd (Andrew)<br>
+6. UserTravelAdd (Andrew)<br>
 This API adds a UserTravel to the table.<br>
 Inputs: PID, UID, UTDateTime<br>
 Output: PID, UID, UTDateTime<br>
