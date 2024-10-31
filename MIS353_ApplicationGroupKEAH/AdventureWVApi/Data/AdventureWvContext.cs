@@ -58,7 +58,7 @@ public partial class AdventureWvContext : DbContext
                 .HasColumnName("AName");
             entity.Property(e => e.Lid).HasColumnName("LID");
 
-            entity.HasOne(d => d.LidNavigation).WithMany(p => p.Activities)
+           entity.HasOne(d => d.LidNavigation).WithMany(p => p.Activities)
                 .HasForeignKey(d => d.Lid)
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__ACTIVITIES__LID__3A81B327");

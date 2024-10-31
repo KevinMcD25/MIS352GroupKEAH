@@ -47,3 +47,18 @@ BEGIN
 
 --PROC 3 Kevin McDonald
 --EXEC AddUser @Ufname = 'Kevin', @Ulname = 'McDonald', @Uemail = 'kevinmcdonald@gmail.com', @Uphone = 7242443522;
+
+use AdventureWV
+go
+
+
+create proc UserTravelAdd
+@PID int,
+@UID int,
+@UTDateTime datetime
+AS
+BEGIN
+INSERT INTO [UserTravel] ([PID], [UID], [UTDateTime]) 
+Values(@PID, @UID, @UTDateTime)
+end
+go

@@ -19,15 +19,19 @@ namespace AdventureWVApi.Repositories
             parameter.Add(new SqlParameter("@Lid", Lid)); 
             return await _dbContext.Database.ExecuteSqlRawAsync("exec AddActivity2 @Aname, @Lid", parameter.ToArray());
         }
-        public async Task<IEnumerable<Activity>> SearchActivity(string Aname)
-        {
-            var parameters = new List<SqlParameter>
-            {
-            new SqlParameter("@Aname", Aname) };
-            return await _dbContext.Activity.FromSqlRaw("EXEC SearchActivity @Aname",
-                          parameters.ToArray()).ToListAsync();
-        
-        }
+       // public async Task<IEnumerable<Activity>> SearchActivity(string Aname)
+       // {
+       //     var param = new List<SqlParameter>();
+
+
+       //     param.Add(new SqlParameter("@Aname", Aname));
+
+
+        //    return await _dbContext.Activity.FromSqlRaw("exec SearchActivityTEST3 @Aname", param.ToArray()).ToListAsync();
+
+       // }
+
+
     }
     }
 

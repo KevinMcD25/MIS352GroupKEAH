@@ -29,23 +29,15 @@ namespace AdventureWVApi.Controllers
                 throw;
             }
         }
-        [HttpGet("SearchActivity")]
-        public async Task<IActionResult> SearchActivityAsync(string Aname = null)
-        {
-            if (SearchActivityAsync == null)
-            {
-                return BadRequest();
-            }
-            try
-            {
-                var response = await ActivityService.SearchActivity(Aname);
-                return Ok(response);
-            }
-            catch
-            {
-                throw;
-            }
+     //  [HttpGet("SearchActivity")]
+     //  public async Task<IActionResult> SearchActivity(string Aname)
+      //  {
+           
+       //         var response = await ActivityService.SearchActivity(Aname);
+        //        return Ok(response);
+         //   }
+           
         }
     }
-    }
+    
 

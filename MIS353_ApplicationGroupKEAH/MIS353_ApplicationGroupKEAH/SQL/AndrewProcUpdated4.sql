@@ -3,20 +3,20 @@ go
 --create proc
 
 
-create proc SearchActivity
-@AID int,
-@Aname nvarchar(255) = 'Hiking',
-@LName nvarchar(255) = null
+create proc SearchActivity1
+
+@Aname nvarchar(255)
+
 AS
 BEGIN
 SET NOCOUNT ON;
+SELECT FROM ACTIVITIES
 
-Select AID as 'Activity ID', AName as 'Activtity Name', LName as 'Location Name'
-from ACTIVITIES, LANDMARKS
 
-where AName = @AName 
+where Aname = @Aname 
 end
+GO
 
-
---Searches Activity
--- exec SearchActivity 1
+Searches Activity
+ exec SearchActivity 1, 'Hiking'
+ go
