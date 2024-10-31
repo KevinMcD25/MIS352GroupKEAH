@@ -55,6 +55,8 @@ Hayden:<br>
 (10/31) - Updated README design<br>
 
 Kevin:<br>
+(10/28) - Completed CreateTravelPlan API<br>
+(10/28)
 
 Andrew:<br>
 
