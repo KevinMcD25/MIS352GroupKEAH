@@ -19,7 +19,7 @@ This API adds an activity in the Activities table.
 Inputs: Aname, LID
 Output: Aname, LID
 
-API 2 SearchActivity (Andrew)
-This API searches the Activities table for an activity
-Inputs: Aname
-Output: Aname
+API 2 UserTravelAdd (Andrew)
+This API adds a UserTravel to the table.
+Inputs: PID, UID, UTDateTime
+Output: PID, UID, UTDateTime
