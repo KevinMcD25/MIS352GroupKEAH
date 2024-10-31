@@ -63,7 +63,9 @@ Kevin:<br>
 Andrew:<br>
 
 Eric:<br>
-
+(10/30) - Completed LandmarkAdd API<br>
+(10/31) - Completed LandmarkSearch API<br>
+(10/31) - Edited ReadME
 
 *********************************************************************************************************************************************
 
