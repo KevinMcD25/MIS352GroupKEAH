@@ -36,14 +36,14 @@ Output: PID, UID, UTDateTime<br>
 
 7.
 Landmark Search
-This API allows the user to search for landmarks using Landmark Type.
+This API allows the user to search for landmarks using Landmark Type.<br>
 
 Input: LType<br>
 Output: LType
 
 8.
 Landmark Add
-This API gives the user the chance to add their own landmark if they find something not in our database. 
+This API gives the user the chance to add their own landmark if they find something not in our database. <br>
 
 Input: LName, LType<br>
 Output: LName, LType
