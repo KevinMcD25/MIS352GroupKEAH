@@ -60,8 +60,8 @@ Kevin:<br>
 (10/31) - Completed UserTravelAdd API <br>
 (10/31) - Completed Landmark Add API<br>
 (10/31) - Completed LandmarkSearch API<br>
-(10/31) - Completed UserTravelDelete
-(10/31) - Updated README design <br>
+(10/31) - Completed UserTravelDelete API<br>
+(10/31) - Updated README design<br>
 
 Andrew:<br>
 (10/28) - Completed ActivityAdd2 API<br>
