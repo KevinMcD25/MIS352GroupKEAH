@@ -5,20 +5,20 @@ API's<br>
 
 1. Hospitality Search<br>
 Allows users to search for what type of lodging they would like to stay at.  When we go to build our website, we plan to have a drop-down search instead of user input.  Users will be able to choose between. Hotel, Inn, Camping, etc. When the user selects an option, it will display all results within our system to the user.<br>
-Input: Htype<br>
+Input: Htype (Hayden) <br>
 Output: HID, HName, HRating, LID<br>
 
-3. addHospitality<br>
+3. addHospitality (Hayden) <br>
 Allows for the addition of hospitality options for front-end programming into the database.  It is a measure to circumvent SQL Injection<br>
 Input: HID, HType, HName, HRating, LID<br>
 Output: -> Sends to Database <br>
 
-5. TravelPlan Add<br>
+5. TravelPlan Add (Kevin) <br>
 This API adds a plan to the Travel Plan table<br>
 Inputs: HID, AID<br>
 OUTPUT PID, HID, AID<br>
 
-4. PlanDelete<br>
+4. PlanDelete (Kevin)<br>
 This API deletes a plan in the Travel Plan table<br>
 Inputs: PID<br>
 OUTPUT : Drop(travel plan)<br>
@@ -33,12 +33,12 @@ This API adds a UserTravel to the table.<br>
 Inputs: PID, UID, UTDateTime<br>
 Output: PID, UID, UTDateTime<br>
 
-7. Landmark Search<br>
+7. Landmark Search (Eric)<br>
 This API allows the user to search for landmarks using Landmark Type.<br>
 Input: LType<br>
 Output: LType
 
-8. Landmark Add<br>
+8. Landmark Add (Eric)<br>
 This API gives the user the chance to add their own landmark if they find something not in our database. <br>
 
 Input: LName, LType<br>
