@@ -15,5 +15,5 @@ public partial class Activity
 
    public virtual Landmark LidNavigation { get; set; } = null!;
 
-    public virtual Travelplan? Travelplan { get; set; }
+  //  public virtual Travelplan? Travelplan { get; set; }
 }

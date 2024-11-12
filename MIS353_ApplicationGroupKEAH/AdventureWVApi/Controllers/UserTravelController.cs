@@ -1,83 +1,35 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using AdventureWVApi.Repositories;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using AdventureWVApi.Data;
+using System.Collections.Generic;
 
 namespace AdventureWVApi.Controllers
 {
-    public class UserTravelController : Controller
+    [Route("api/[controller]")]
+    [ApiController]
+    public class UserTravelController : ControllerBase
     {
-        // GET: UserTravelController
-        public ActionResult Index()
-        {
-            return View();
-        }
+        private readonly IUserTravelService UserTravelService;
 
-        // GET: UserTravelController/Details/5
-        public ActionResult Details(int id)
+        public UserTravelController(IUserTravelService UserTravelService)
         {
-            return View();
+            this.UserTravelService = UserTravelService;
         }
+        [HttpDelete("UserTravelDelete")]
 
-        // GET: UserTravelController/Create
-        public ActionResult Create()
+    public async Task<IActionResult> UserTravelAsync(int UTID)
         {
-            return View();
+
+                var response = await UserTravelService.UserTravelDelete(UTID);
+                return Ok(response);
+           
         }
-
-        // POST: UserTravelController/Create
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        [HttpPost("AddUserTravel")]
+        public async Task<IActionResult> UserTravelAdd(int Pid, int Uid, DateTime UTDateTime)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: UserTravelController/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
-
-        // POST: UserTravelController/Edit/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
-        }
-
-        // GET: UserTravelController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: UserTravelController/Delete/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var response = await UserTravelService.UserTravelAdd(Pid, Uid, UTDateTime);
+            return Ok(response);
         }
     }
 }
