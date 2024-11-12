@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MIS353_ApplicationGroupKEAH.Data;
 
 public partial class UserTravel
 {
+    [Key]
     public int Utid { get; set; }
 
     public int Pid { get; set; }

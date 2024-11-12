@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MIS353_ApplicationGroupKEAH.Data;
 
 public partial class Landmark
 {
+    [Key]
     public int Lid { get; set; }
 
     public string Lname { get; set; } = null!;

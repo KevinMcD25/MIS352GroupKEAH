@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MIS353_ApplicationGroupKEAH
 build_property.RootNamespace = MIS353_ApplicationGroupKEAH
@@ -56,6 +64,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/UserTravelAdd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclRyYXZlbEFkZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/UserTravelAdd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclRyYXZlbEFkZFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/UserTravelAdd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclRyYXZlbEFkZFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/UserTravelAdd/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclRyYXZlbEFkZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/UserTravelAdd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclRyYXZlbEFkZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Weather.cshtml]

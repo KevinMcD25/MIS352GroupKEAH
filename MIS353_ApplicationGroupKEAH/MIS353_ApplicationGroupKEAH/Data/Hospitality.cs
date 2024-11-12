@@ -1,10 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MIS353_ApplicationGroupKEAH.Data;
 
 public partial class Hospitality
 {
+    [Key]
     public int Hid { get; set; }
 
     public string Hname { get; set; } = null!;
