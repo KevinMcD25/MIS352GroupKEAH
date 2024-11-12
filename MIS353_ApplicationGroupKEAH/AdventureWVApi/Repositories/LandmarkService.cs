@@ -23,11 +23,11 @@ namespace AdventureWVApi.Repositories
 
         public async Task<IEnumerable<Landmark>> SearchLType(string Ltype)
         {
-            var parm = new List<SqlParameter>
-            {
-                new SqlParameter("@Ltype", Ltype),
-            };
-            return await _dbContext.Landmark.FromSqlRaw("exec SearchLandmark", parm.ToArray()).ToListAsync();
+            var parmam = new List<SqlParameter>();
+            
+                parmam.Add(new SqlParameter("@Ltype", Ltype));
+            
+            return await _dbContext.Landmark.FromSqlRaw("exec SearchLandmark2 @Ltype", parmam.ToArray()).ToListAsync();
         }
 
 

@@ -13,6 +13,7 @@ builder.Services.AddScoped<IActivityService, ActivityService>();
 builder.Services.AddScoped<ITravelplanService, TravelplanService>();
 builder.Services.AddScoped<IHospitalityService, HospitalityService>();
 builder.Services.AddScoped<ILandmarkService, LandmarkService>();
+builder.Services.AddScoped<IUserTravelService, UserTravelService>();
 builder.Services.AddDbContext<DbContextClass>();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
