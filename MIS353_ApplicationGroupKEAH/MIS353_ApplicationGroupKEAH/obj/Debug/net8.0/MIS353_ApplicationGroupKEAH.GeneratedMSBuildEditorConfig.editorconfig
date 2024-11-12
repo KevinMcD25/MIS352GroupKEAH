@@ -30,6 +30,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/ActivityAdd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdHlBZGRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/ActivityAdd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdHlBZGRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/ActivityAdd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdHlBZGRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/ActivityAdd/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdHlBZGRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/ActivityAdd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdHlBZGRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Bootstrap.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9vdHN0cmFwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
