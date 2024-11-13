@@ -18,10 +18,7 @@
         ],
         "configFilePaths": [
           "C:\\Users\\MISTUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
->>>>>>> fc500f9e960f0fdcb834e34ebc8e104a9319a3f1
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
