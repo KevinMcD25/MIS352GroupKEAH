@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewvapi\\data\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\data\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +14,171 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewvapi\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\sql\\kevinmcdonaldsps.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\sql\\kevinmcdonaldsps.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\repositories\\hospitalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\repositories\\hospitalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\controllers\\landmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\controllers\\landmarkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\repositories\\ihospitalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\repositories\\ihospitalityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\repositories\\landmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\repositories\\landmarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\activityadd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\activityadd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\sql\\andrewprocupated.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\sql\\andrewprocupated.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\adventurewvapi\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}|AdventureWVApi\\AdventureWVApi.csproj|solutionrelative:adventurewvapi\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\kevin\\onedrive\\desktop\\school\\mis 353\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\sql\\kevinmcdonaldsps.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\sql\\kevinmcdonaldsps.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+=======
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\usertraveladd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\usertraveladd\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\usertravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\usertravel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\userdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\userdatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\travelplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\travelplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\landmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\hospitality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\hospitality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\adventurewvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\adventurewvcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\data\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\data\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\sql\\andrewprocupated.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\sql\\andrewprocupated.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+>>>>>>> b95edf9b0a4a35ced7fb9a0bb4a40872b012f0ee
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +188,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 1,
+=======
+<<<<<<< HEAD
+          "SelectedChildIndex": 11,
+>>>>>>> b95edf9b0a4a35ced7fb9a0bb4a40872b012f0ee
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LandmarkController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\LandmarkController.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Controllers\\LandmarkController.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\LandmarkController.cs",
+              "RelativeToolTip": "AdventureWVApi\\Controllers\\LandmarkController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:22:42.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HospitalityService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\HospitalityService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\HospitalityService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\HospitalityService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\HospitalityService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:17:08.55Z",
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Activity.cs",
               "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Activity.cs",
               "RelativeDocumentMoniker": "AdventureWVApi\\Data\\Activity.cs",
@@ -52,10 +263,246 @@
               "ViewState": "AgIAAK0AAABAz8zMzIwiwJ4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T13:45:01.925Z",
+=======
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:50:19.578Z",
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Program.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Program.cs",
+              "RelativeToolTip": "AdventureWVApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:39:52.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\DBContextClass.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Data\\DBContextClass.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\DBContextClass.cs",
+              "RelativeToolTip": "AdventureWVApi\\Data\\DBContextClass.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:22:28.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Landmark.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Landmark.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Data\\Landmark.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Landmark.cs",
+              "RelativeToolTip": "AdventureWVApi\\Data\\Landmark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:23:36.808Z"
+=======
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:50:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:50:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:50:19.131Z",
+              "EditorCaption": ""
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+<<<<<<< HEAD
+              "Title": "ILandmarkService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\ILandmarkService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\ILandmarkService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\ILandmarkService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\ILandmarkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:22:07.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KevinMcDonaldSPs.sql ",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\KevinMcDonaldSPs.sql",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\SQL\\KevinMcDonaldSPs.sql",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\KevinMcDonaldSPs.sql",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\SQL\\KevinMcDonaldSPs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T15:23:56.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHospitalityService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\IHospitalityService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\IHospitalityService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\IHospitalityService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\IHospitalityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:49:43.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LandmarkService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\LandmarkService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\LandmarkService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\LandmarkService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\LandmarkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:21:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hospitality.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Hospitality.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Data\\Hospitality.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Hospitality.cs",
+              "RelativeToolTip": "AdventureWVApi\\Data\\Hospitality.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:49:48.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HaydenRhodesSPs.sql",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\HaydenRhodesSPs.sql",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\SQL\\HaydenRhodesSPs.sql",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\HaydenRhodesSPs.sql",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\SQL\\HaydenRhodesSPs.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-30T16:02:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\ActivityService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\ActivityService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\ActivityService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\ActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:26:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IActivityService.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\IActivityService.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Repositories\\IActivityService.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Repositories\\IActivityService.cs",
+              "RelativeToolTip": "AdventureWVApi\\Repositories\\IActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:27:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Controllers\\ActivityController.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "AdventureWVApi\\Controllers\\ActivityController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:27:43.103Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "68b8ce94-5377-405a-aba0-53c2fe44a3d8",
+        "Display": 0,
+        "X": 66,
+        "Y": 173,
+        "Width": 1142,
+        "Height": 568,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HospitalityController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\HospitalityController.cs",
+              "RelativeDocumentMoniker": "AdventureWVApi\\Controllers\\HospitalityController.cs",
+              "ToolTip": "C:\\Users\\kevin\\OneDrive\\Desktop\\School\\MIS 353\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Controllers\\HospitalityController.cs",
+              "RelativeToolTip": "AdventureWVApi\\Controllers\\HospitalityController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
+=======
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:50:18.995Z",
+>>>>>>> b95edf9b0a4a35ced7fb9a0bb4a40872b012f0ee
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "Landmark.cs",
               "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWVApi\\Data\\Landmark.cs",
@@ -65,6 +512,330 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T15:24:32.594Z"
+=======
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:50:18.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:50:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:50:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:50:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\ActivityAdd\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:50:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AndrewProcUpated.sql ",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\AndrewProcUpated.sql",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\SQL\\AndrewProcUpated.sql",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\SQL\\AndrewProcUpated.sql",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\SQL\\AndrewProcUpated.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-12T18:44:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:53.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:18:53.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+>>>>>>> 5d5ace91c92255d2f44856b038bb1563cef1cdc6
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:18:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:18:53.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:53.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:18:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:18:53.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\UserTravelAdd\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T18:18:52.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Program.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Program.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Program.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:16:55.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Userdatum.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Userdatum.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\Userdatum.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Userdatum.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\Userdatum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:46.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Travelplan.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Travelplan.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\Travelplan.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Travelplan.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\Travelplan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:29.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Landmark.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Landmark.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\Landmark.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Landmark.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\Landmark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:22.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Hospitality.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Hospitality.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\Hospitality.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Hospitality.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\Hospitality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:09.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:15:08.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdventureWvContext.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\AdventureWvContext.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\AdventureWvContext.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\AdventureWvContext.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\AdventureWvContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:58:34.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserTravel.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\UserTravel.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\UserTravel.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\UserTravel.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\UserTravel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:55:20.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Activity.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Data\\Activity.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Data\\Activity.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Data\\Activity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T00:46:28.653Z",
+              "EditorCaption": ""
+>>>>>>> b95edf9b0a4a35ced7fb9a0bb4a40872b012f0ee
             }
           ]
         }

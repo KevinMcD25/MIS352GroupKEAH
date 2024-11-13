@@ -1,0 +1,31 @@
+﻿@page
+@model MIS353_ApplicationGroupKEAH.Pages.ActivityAdd.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Activity</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Activity.Aname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Activity.Aname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Activity.LidNavigation)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Activity.LidNavigation.Lid)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Activity.Aid">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>
