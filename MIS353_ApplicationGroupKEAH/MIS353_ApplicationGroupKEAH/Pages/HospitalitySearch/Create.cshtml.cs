@@ -20,6 +20,7 @@ namespace MIS353_ApplicationGroupKEAH.Pages.HospitalitySearch
 
         public IActionResult OnGet()
         {
+        ViewData["Lid"] = new SelectList(_context.Landmarks, "Lid", "Lid");
             return Page();
         }
 

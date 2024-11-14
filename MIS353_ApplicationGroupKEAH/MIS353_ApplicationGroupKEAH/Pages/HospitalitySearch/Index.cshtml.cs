@@ -6,41 +6,24 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using MIS353_ApplicationGroupKEAH.Data;
-using System.Net.Http;
 
 namespace MIS353_ApplicationGroupKEAH.Pages.HospitalitySearch
 {
     public class IndexModel : PageModel
     {
-        private readonly HttpClient _httpClient;
+        private readonly MIS353_ApplicationGroupKEAH.Data.AdventureWvContext _context;
 
-        public IndexModel(HttpClient httpClient)
+        public IndexModel(MIS353_ApplicationGroupKEAH.Data.AdventureWvContext context)
         {
-            _httpClient = httpClient;
+            _context = context;
         }
 
-        public IList<Hospitality> Hospitality { get; set; } = default!;
+        public IList<Hospitality> Hospitality { get;set; } = default!;
 
-        public async Task<IActionResult> OnGetAsync(string Htype)
+        public async Task OnGetAsync()
         {
-            if (string.IsNullOrEmpty(Htype))
-            {
-                return Page();
-            }
-            try
-            {
-                //Made the endpoint string
-                string requestUrl = $"https://localhost:7151/api/Hospitality/SearchHType?HType={Uri.EscapeDataString(Htype)}";
-                //Send GET Request to API
-
-                Hospitality = await _httpClient.GetFromJsonAsync<IList<Hospitality>>(requestUrl) ?? new List<Hospitality>();
-            }
-            catch (HttpRequestException e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            return Page();
+            Hospitality = await _context.Hospitalities
+                .Include(h => h.LidNavigation).ToListAsync();
         }
     }
 }
-

@@ -413,3 +413,4 @@ C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS35
 C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\obj\Debug\net8.0\MIS353_ApplicationGroupKEAH.pdb
 C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\obj\Debug\net8.0\MIS353_ApplicationGroupKEAH.genruntimeconfig.cache
 C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\obj\Debug\net8.0\ref\MIS353_ApplicationGroupKEAH.dll
+C:\Users\MISTUser\Source\Repos\MIS352GroupKEAH\MIS353_ApplicationGroupKEAH\MIS353_ApplicationGroupKEAH\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

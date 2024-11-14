@@ -23,7 +23,7 @@
                 @Html.DisplayNameFor(model => model.Hospitality[0].Hrating)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Hospitality[0].Lid)
+                @Html.DisplayNameFor(model => model.Hospitality[0].LidNavigation)
             </th>
             <th></th>
         </tr>
@@ -41,7 +41,7 @@
                 @Html.DisplayFor(modelItem => item.Hrating)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Lid)
+                @Html.DisplayFor(modelItem => item.LidNavigation.Lid)
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.Hid">Edit</a> |

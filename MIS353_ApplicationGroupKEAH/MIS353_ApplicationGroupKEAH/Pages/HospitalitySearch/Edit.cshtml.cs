@@ -35,6 +35,7 @@ namespace MIS353_ApplicationGroupKEAH.Pages.HospitalitySearch
                 return NotFound();
             }
             Hospitality = hospitality;
+           ViewData["Lid"] = new SelectList(_context.Landmarks, "Lid", "Lid");
             return Page();
         }
 
