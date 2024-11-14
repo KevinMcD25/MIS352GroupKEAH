@@ -1,0 +1,54 @@
+﻿@page
+@model MIS353_ApplicationGroupKEAH.Pages.HospitalityAdd.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Hospitality[0].Hname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hospitality[0].Htype)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hospitality[0].Hrating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hospitality[0].LidNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Hospitality) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Htype)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hrating)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LidNavigation.Lid)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Hid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Hid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Hid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

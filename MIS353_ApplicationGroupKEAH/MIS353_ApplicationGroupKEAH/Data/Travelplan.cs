@@ -13,9 +13,9 @@ public partial class Travelplan
 
     public int Aid { get; set; }
 
-    public virtual Activity AidNavigation { get; set; } = null!;
+    public virtual Activity AidNavigation { get; set; } 
 
-    public virtual Hospitality HidNavigation { get; set; } = null!;
+    public virtual Hospitality HidNavigation { get; set; } 
 
     public virtual ICollection<UserTravel> UserTravels { get; set; } = new List<UserTravel>();
 }

@@ -62,12 +62,52 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/HospitalityAdd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zcGl0YWxpdHlBZGRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/HospitalityAdd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zcGl0YWxpdHlBZGRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/HospitalityAdd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zcGl0YWxpdHlBZGRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/HospitalityAdd/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zcGl0YWxpdHlBZGRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/HospitalityAdd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9zcGl0YWxpdHlBZGRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/Information.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/LandmarkAdd/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZG1hcmtBZGRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/LandmarkAdd/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZG1hcmtBZGRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/LandmarkAdd/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZG1hcmtBZGRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/LandmarkAdd/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZG1hcmtBZGRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/LandmarkAdd/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZG1hcmtBZGRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/MISTUser/Source/Repos/MIS352GroupKEAH/MIS353_ApplicationGroupKEAH/MIS353_ApplicationGroupKEAH/Pages/map.cshtml]

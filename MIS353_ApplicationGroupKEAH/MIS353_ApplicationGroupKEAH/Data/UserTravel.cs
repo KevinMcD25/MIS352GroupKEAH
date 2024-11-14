@@ -15,7 +15,7 @@ public partial class UserTravel
 
     public DateTime UtdateTime { get; set; }
 
-    public virtual Travelplan PidNavigation { get; set; } = null!;
+    public virtual Travelplan PidNavigation { get; set; } 
 
-    public virtual Userdatum UidNavigation { get; set; } = null!;
+    public virtual Userdatum UidNavigation { get; set; } 
 }
