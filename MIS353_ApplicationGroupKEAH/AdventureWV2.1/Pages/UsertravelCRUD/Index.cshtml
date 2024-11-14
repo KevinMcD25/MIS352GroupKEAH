@@ -1,0 +1,48 @@
+﻿@page
+@model AdventureWV2._1.Pages.UsertravelCRUD.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserTravel[0].Pid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserTravel[0].Uid)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserTravel[0].UtdateTime)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.UserTravel) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Uid)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UtdateTime)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Utid">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Utid">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Utid">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
