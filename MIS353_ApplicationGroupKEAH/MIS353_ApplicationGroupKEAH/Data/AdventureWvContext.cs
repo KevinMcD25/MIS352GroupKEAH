@@ -15,17 +15,17 @@ public partial class AdventureWvContext : DbContext
     {
     }
 
-    public virtual DbSet<Activity> Activities { get; set; }
+    public  DbSet<Activity> Activities { get; set; }
 
-    public virtual DbSet<Hospitality> Hospitalities { get; set; }
+    public  DbSet<Hospitality> Hospitalities { get; set; }
 
-    public virtual DbSet<Landmark> Landmarks { get; set; }
+    public  DbSet<Landmark> Landmarks { get; set; }
 
-    public virtual DbSet<Travelplan> Travelplans { get; set; }
+    public DbSet<Travelplan> Travelplans { get; set; }
 
-    public virtual DbSet<UserTravel> UserTravels { get; set; }
+    public DbSet<UserTravel> UserTravels { get; set; }
 
-    public virtual DbSet<Userdatum> Userdata { get; set; }
+    public DbSet<Userdatum> Userdata { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         => optionsBuilder.UseSqlServer("Name=ConnectionStrings:DefaultConnection");

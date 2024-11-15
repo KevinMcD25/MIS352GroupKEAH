@@ -72,5 +72,8 @@ Eric:<br>
 (10/31) - Completed LandmarkSearch API<br>
 (10/31) - Edited ReadME
 
+
+Scaffold-DbContext 'Name=ConnectionStrings:DefaultConnection' Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data
+
 *********************************************************************************************************************************************
 
