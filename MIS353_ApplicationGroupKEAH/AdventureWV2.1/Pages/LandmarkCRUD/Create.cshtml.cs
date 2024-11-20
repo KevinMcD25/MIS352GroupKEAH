@@ -9,6 +9,7 @@ using AdventureWV2._1.Data;
 
 namespace AdventureWV2._1.Pages.LandmarkCRUD
 {
+    //Create Landmark
     public class CreateModel : PageModel
     {
         private readonly AdventureWV2._1.Data.AdventureWvContext _context;

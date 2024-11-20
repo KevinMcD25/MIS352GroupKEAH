@@ -10,6 +10,7 @@ using AdventureWV2._1.Data;
 
 namespace AdventureWV2._1.Pages.LandmarkCRUD
 {
+    //Edit Landmark
     public class EditModel : PageModel
     {
         private readonly AdventureWV2._1.Data.AdventureWvContext _context;

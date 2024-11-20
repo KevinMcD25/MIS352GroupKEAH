@@ -22,6 +22,7 @@ namespace AdventureWV2._1.Pages.HospitalityCRUD
         [BindProperty]
         public Hospitality Hospitality { get; set; } = default!;
 
+        //Edit Hospitality
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)

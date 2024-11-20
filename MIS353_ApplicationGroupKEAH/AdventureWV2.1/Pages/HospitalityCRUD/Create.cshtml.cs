@@ -33,7 +33,7 @@ namespace AdventureWV2._1.Pages.HospitalityCRUD
             {
                 return Page();
             }
-
+            //Add Hospitality
             _context.Hospitalities.Add(Hospitality);
             await _context.SaveChangesAsync();
 

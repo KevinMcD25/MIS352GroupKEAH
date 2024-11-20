@@ -17,9 +17,10 @@ namespace AdventureWV2._1.Pages.HospitalityCRUD
         {
             _context = context;
         }
-
+        
+        //List CRUD options
         public IList<Hospitality> Hospitality { get;set; } = default!;
-
+        
         public async Task OnGetAsync()
         {
             Hospitality = await _context.Hospitalities.ToListAsync();
