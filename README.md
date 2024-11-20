@@ -191,7 +191,7 @@ This is a travel advisor that has some features we could potentially use in our 
 
 Hayden Rhodes - HospitalityCRUD <br>
 
-Andrew Taughinbaugh - TravelplanCRUD <br>
+Andrew Taughinbaugh - UserTravelCRUD, ActivityAddCRUD <br>
 
 Eric  Scull - LandmarkCRUD <br>
 
