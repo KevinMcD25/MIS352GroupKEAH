@@ -195,7 +195,7 @@ Andrew Taughinbaugh - UserTravelCRUD, ActivityAddCRUD <br>
 
 Eric  Scull - LandmarkCRUD <br>
 
-Kevin McDonald - UsertravelCRUD <br>
+Kevin McDonald - TravelPlanCRUD <br>
 
 
 
