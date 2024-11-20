@@ -21,7 +21,7 @@ namespace AdventureWV2._1.Pages.ActivityCRUD
 
         [BindProperty]
         public Activity Activity { get; set; } = default!;
-
+        // Edit Activity
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)

@@ -40,7 +40,7 @@ namespace AdventureWV2._1.Pages.ActivityCRUD
             }
             return Page();
         }
-
+        // Delete Activity
         public async Task<IActionResult> OnPostAsync(int? id)
         {
             if (id == null)

@@ -19,7 +19,7 @@ namespace AdventureWV2._1.Pages.ActivityCRUD
         }
 
         public Activity Activity { get; set; } = default!;
-
+        // Sort by ID
         public async Task<IActionResult> OnGetAsync(int? id)
         {
             if (id == null)

@@ -33,7 +33,7 @@ namespace AdventureWV2._1.Pages.ActivityCRUD
             {
                 return Page();
             }
-
+            //Add Activity
             _context.Activities.Add(Activity);
             await _context.SaveChangesAsync();
 
