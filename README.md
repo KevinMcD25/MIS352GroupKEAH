@@ -184,3 +184,18 @@ This is a travel advisor that has some features we could potentially use in our 
 "How do I make my navbar useable?"
 
  "how do I get this proc to stop repeating"
+
+ 
+*******************************************************************************************************************************************************************
+### Assignment 5 <br>
+
+Hayden Rhodes - HospitalityCRUD <br>
+
+Andrew Taughinbaugh - TravelplanCRUD <br>
+
+Eric  Scull - LandmarkCRUD <br>
+
+Kevin McDonald - UsertravelCRUD <br>
+
+
+
