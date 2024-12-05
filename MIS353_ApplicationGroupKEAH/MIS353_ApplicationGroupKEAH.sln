@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MIS353_ApplicationGroupKEAH
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWVApi", "AdventureWVApi\AdventureWVApi.csproj", "{2E8A476E-B184-41F6-8C71-4212B0E4AE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWv2.0", "AdventureWv2.0\AdventureWv2.0.csproj", "{D062E2F3-AB2D-4DCA-8B15-28938C3B241C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWv2.0", "AdventureWv2.0\AdventureWv2.0.csproj", "{D062E2F3-AB2D-4DCA-8B15-28938C3B241C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWV2.1", "AdventureWV2.1\AdventureWV2.1.csproj", "{5AC742C1-561B-4393-AECE-CCF7062952F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWV2.1", "AdventureWV2.1\AdventureWV2.1.csproj", "{5AC742C1-561B-4393-AECE-CCF7062952F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
