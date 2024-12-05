@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\travelplancrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\travelplancrud\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\travelplancrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\travelplancrud\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\hospitalitycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\hospitalitycrud\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\travelplancrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\travelplancrud\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\travelplancrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\travelplancrud\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\adventurewv2.1\\pages\\travelplancrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC742C1-561B-4393-AECE-CCF7062952F2}|AdventureWV2.1\\AdventureWV2.1.csproj|solutionrelative:adventurewv2.1\\pages\\travelplancrud\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|c:\\users\\mistuser\\source\\repos\\mis352groupkeah\\mis353_applicationgroupkeah\\mis353_applicationgroupkeah\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E656E621-E287-43B8-9030-F74197B55E44}|MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH.csproj|solutionrelative:mis353_applicationgroupkeah\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,66 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Index.cshtml.cs",
-              "RelativeToolTip": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T01:55:26.581Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABcAAACgzMzMzAwswCgAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T01:40:35.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Edit.cshtml.cs",
-              "RelativeToolTip": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Edit.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T01:55:11.331Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\HospitalityCRUD\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\HospitalityCRUD\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\HospitalityCRUD\\Index.cshtml",
+              "RelativeToolTip": "AdventureWV2.1\\Pages\\HospitalityCRUD\\Index.cshtml",
+              "ViewState": "AgIAAAYAAACgzMzMzMwnwBYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T01:18:16.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Details.cshtml.cs",
-              "RelativeToolTip": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Details.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "MIS353_ApplicationGroupKEAH\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T01:54:48.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Delete.cshtml.cs",
-              "RelativeToolTip": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T01:54:33.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\MISTUser\\source\\repos\\MIS352GroupKEAH\\MIS353_ApplicationGroupKEAH\\AdventureWV2.1\\Pages\\TravelplanCRUD\\Create.cshtml.cs",
-              "RelativeToolTip": "AdventureWV2.1\\Pages\\TravelplanCRUD\\Create.cshtml.cs",
-              "ViewState": "AgIAAAEAAABAzczMzMwXwAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T01:54:22.045Z",
+              "WhenOpened": "2024-12-05T01:06:04.922Z",
               "EditorCaption": ""
             }
           ]
