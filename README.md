@@ -198,4 +198,62 @@ Eric  Scull - LandmarkCRUD <br>
 Kevin McDonald - UserTravelCRUD, TravelPlanCRUD <br>
 
 
+*******************************************************************************************************************************************************************
+### Final Documentation <br>
+1. Visit our github and clone the repository using the url.
+2. Open visual studio past the url into the clone a repository tab.
+3. Once you have copied our repository, you should have access to our code.
+4. Make sure you have the proper framework installed within the vm as well.
+5. To create the database, visit the SQL folder inside VS to access our create and insert statements.
+6. First use the create statements to create the database.
+7. Then run the insert statements but make sure you USE the database.
+8. If you run into errors, investigate the line of code with the error from the error description. If you still can't figure it out, paste the error code into google and look at the forums.
+
+   API's
+
+Hospitality Search
+Allows users to search for what type of lodging they would like to stay at. When we go to build our website, we plan to have a drop-down search instead of user input. Users will be able to choose between. Hotel, Inn, Camping, etc. When the user selects an option, it will display all results within our system to the user.
+Input: Htype (Hayden)
+Output: HID, HName, HRating, LID
+
+addHospitality (Hayden)
+Allows for the addition of hospitality options for front-end programming into the database. It is a measure to circumvent SQL Injection
+Input: HID, HType, HName, HRating, LID
+Output: -> Sends to Database
+
+TravelPlan Add (Kevin)
+This API adds a plan to the Travel Plan table
+Inputs: HID, AID
+OUTPUT PID, HID, AID
+
+PlanDelete (Kevin)
+This API deletes a plan in the Travel Plan table
+Inputs: PID
+OUTPUT : Drop(travel plan)
+
+AddActivity2 (Andrew)
+This API adds an activity in the Activities table.
+Inputs: Aname, LID
+Output: Aname, LID
+
+UserTravelAdd (Andrew)
+This API adds a UserTravel to the table.
+Inputs: PID, UID, UTDateTime
+Output: PID, UID, UTDateTime
+
+Landmark Search (Eric)
+This API allows the user to search for landmarks using Landmark Type.
+Input: LType
+Output: LType
+
+Landmark Add (Eric)
+This API gives the user the chance to add their own landmark if they find something not in our database.
+
+Input: LName, LType
+Output: LName, LType
+
+
+
+
+
 
